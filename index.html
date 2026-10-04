@@ -94,6 +94,19 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:12px 24px;justify-content:space-bet
   .day .when{flex-direction:row;align-items:baseline;gap:12px}
 }
 @media (max-width:480px){.mast .logo svg{height:40px}}
+
+.subs{background:var(--plano);color:var(--on-plano);background-image:linear-gradient(var(--plano-grid) 1px,transparent 1px),linear-gradient(90deg,var(--plano-grid) 1px,transparent 1px);background-size:44px 44px;border-radius:10px;padding:36px clamp(20px,4vw,48px);margin-block:48px;display:grid;gap:18px 40px;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);align-items:center}
+.subs h2{font-family:"Space Grotesk",sans-serif;font-weight:700;letter-spacing:-.02em;font-size:clamp(26px,3.4vw,38px);line-height:1.05;margin:8px 0 10px}
+.subs p{margin:0;color:#C9D3EA;line-height:1.5}
+.subs .k{color:var(--soplo)}
+.subs form{display:grid;gap:10px}
+.subs input[type=email],.subs input[type=text]{font:inherit;font-size:16px;padding:13px 14px;border-radius:6px;border:1px solid transparent;background:#F4F1E8;color:#0D1B36;width:100%;box-sizing:border-box}
+.subs input:focus-visible,.subs button:focus-visible{outline:3px solid var(--soplo);outline-offset:2px}
+.subs button{font:700 16px "Space Grotesk",sans-serif;padding:14px 18px;border:0;border-radius:6px;background:var(--soplo);color:#0D1B36;cursor:pointer}
+.subs button[disabled]{opacity:.6;cursor:wait}
+.subs .msg{min-height:1.4em;font-size:14px;color:#F4F1E8}
+.subs .hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+@media (max-width:760px){.subs{grid-template-columns:1fr}}
 </style>
 
 <header class="mast">
@@ -116,6 +129,15 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:12px 24px;justify-content:space-bet
 </nav>
 <main>
   <section class="today wrap" id="hoy" aria-live="polite"><p class="none">Cargando la edición del día…</p></section>
+  <section class="wrap" id="suscribete-wrap" hidden><div class="subs" id="suscribete">
+    <div><span class="k">Boletín</span><h2>Suscríbete y recibe lo que sopló hoy</h2><p>Las noticias de negocios, tecnología y administración del día, en tu correo cada mañana. Gratis, sin spam y te das de baja cuando quieras.</p></div>
+    <form id="subs-form" novalidate>
+      <label class="hp" aria-hidden="true">No llenar <input type="text" name="web" tabindex="-1" autocomplete="off"></label>
+      <input type="text" name="nombre" placeholder="Tu nombre (opcional)" autocomplete="name" aria-label="Tu nombre">
+      <input type="email" name="correo" placeholder="tu@correo.com" required autocomplete="email" aria-label="Tu correo electrónico">
+      <button type="submit">Suscribirme</button>
+      <div class="msg" id="subs-msg" role="status" aria-live="polite"></div>
+    </form></div></section>
   <section class="archive wrap" id="archivo"></section>
 </main>
 <footer><div class="wrap"><span class="k">Blewprint · El plano del día, cada mañana</span><span class="k" id="updated"></span></div></footer>
@@ -167,6 +189,26 @@ fetch('notas.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw 0; retur
   if (j.actualizado) $('#updated').textContent = 'Actualizado: ' + j.actualizado;
   chips(); render();
 }).catch(() => { $('#hoy').innerHTML = '<p class="none">No se pudieron cargar las noticias. Recarga la página en unos segundos.</p>'; });
+</script>
+
+<script>
+const SUBS_URL = '';
+(() => {
+  const wrap = document.getElementById('suscribete-wrap'); if (!SUBS_URL) return; wrap.hidden = false;
+  const f = document.getElementById('subs-form'), msg = document.getElementById('subs-msg'), btn = f.querySelector('button');
+  f.addEventListener('submit', async ev => {
+    ev.preventDefault();
+    const correo = f.correo.value.trim(), nombre = f.nombre.value.trim();
+    if (f.web.value) return;
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(correo)) { msg.textContent = 'Revisa tu correo: parece que le falta algo.'; f.correo.focus(); return; }
+    btn.disabled = true; msg.textContent = 'Enviando…';
+    try {
+      await fetch(SUBS_URL, { method: 'POST', mode: 'no-cors', body: new URLSearchParams({ correo, nombre, origen: 'blewprint.mx' }) });
+      f.reset(); msg.textContent = '¡Listo! Ya estás en la lista. Nos vemos mañana temprano.';
+    } catch { msg.textContent = 'No se pudo enviar. Intenta de nuevo en un momento.'; }
+    btn.disabled = false;
+  });
+})();
 </script>
 
 </html>
