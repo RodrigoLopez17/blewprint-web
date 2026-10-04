@@ -1,0 +1,312 @@
+{
+ "actualizado": "04 oct 2026, 06:39 (hora de Mérida)",
+ "ediciones": [
+  {
+   "fecha": "2026-10-04",
+   "fechaLabel": "04 OCT 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Irán mantendrá cerrado Ormuz hasta que EE. UU. acepte sus siete condiciones",
+     "titularCorto": "Ormuz sigue cerrado",
+     "bajada": "Ghalibaf condicionó la reapertura a las siete condiciones del memorándum de Islamabad. Por ahí pasa cerca de un quinto del petróleo y gas del mundo, así que diésel y crudo seguirán caros.",
+     "dato": {
+      "cifra": "1/5",
+      "contexto": "del petróleo y gas natural mundiales cruza Ormuz en tiempos de paz"
+     },
+     "fuente": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Nike vende 4% menos, se hunde 26% en China y anuncia recortes con su plan Pace",
+     "titularCorto": "Nike pasa del turnaround al recorte",
+     "bajada": "Ingresó US$11.21 mil millones en su 1T fiscal 2027 y prevé otro año a la baja. Elliott Hill busca ~US$2.5 mil millones en ahorros con menos roles desde 2027.",
+     "dato": {
+      "cifra": "-26%",
+      "contexto": "caída de ventas de Nike en Greater China"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "El G7 libera 100 millones de barriles y Trump descarta vetar el diésel",
+     "titularCorto": "G7 abre reservas; no habrá veto al diésel",
+     "bajada": "El diésel se liberará primero, en 20 días, y el resto en unos cuatro meses. Alivia precios antes de las midterms y quita el riesgo de un veto que golpearía a México.",
+     "dato": {
+      "cifra": "US$6.37",
+      "contexto": "por galón de diésel en EE. UU. (AAA); el récord fue US$6.52"
+     },
+     "fuente": "Fortune",
+     "url": "https://fortune.com/2026/10/03/us-diesel-export-ban-record-prices-trump-europe-g7-reserves-release/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "La amenaza del diésel exhibe las fallas de Pemex: México importa 40% del que usa",
+     "titularCorto": "El diésel exhibe a Pemex",
+     "bajada": "Casi todo el diésel importado viene de EE. UU. Crudo pesado para refinerías de ligero, huachicol fiscal y operación bajo 70% explican por qué el país no se abastece solo.",
+     "dato": {
+      "cifra": "40%",
+      "contexto": "del diésel que consume México es importado, casi todo de EE. UU."
+     },
+     "fuente": "El País México",
+     "url": "https://elpais.com/mexico/economia/2026-10-04/el-crudo-de-baja-calidad-y-el-huachicol-acechan-a-las-refinerias-de-pemex-en-la-ultima-crisis-del-diesel-en-mexico.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "EE. UU. crea solo 29,000 empleos en septiembre y el desempleo sube a 4.2%",
+     "titularCorto": "EE. UU.: 29,000 empleos y desempleo 4.2%",
+     "bajada": "El consenso esperaba unos 84,000 y julio-agosto se revisaron 60,000 a la baja. Crece a ~82.8% la probabilidad de que la Fed no mueva tasas en octubre.",
+     "dato": {
+      "cifra": "29,000",
+      "contexto": "empleos creados en septiembre vs. ~84,000 esperados"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "El FMI prevé que México crezca 1.5% en 2026 y pide más ajuste fiscal",
+     "titularCorto": "FMI: México crecerá 1.5% en 2026",
+     "bajada": "Tras un débil 0.5% en 2025, proyecta 1.8% para 2027. Reconoce la consolidación fiscal, pero pide más recaudación y mejor gasto para bajar la deuda.",
+     "dato": {
+      "cifra": "1.5%",
+      "contexto": "crecimiento proyectado por el FMI para México en 2026"
+     },
+     "fuente": "FMI",
+     "url": "https://www.imf.org/es/news/articles/2026/10/02/cs-mexico-staff-concluding-statement-of-the-2026-article-iv-mission"
+    }
+   ],
+   "radar": []
+  },
+  {
+   "fecha": "2026-10-03",
+   "fechaLabel": "03 OCT 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "EE.UU. manda un tercer portaaviones a Irán y el G7 libera 100 millones de barriles",
+     "titularCorto": "Irán escala y el diésel se dispara",
+     "bajada": "El G7 liberará crudo y diésel durante cuatro meses para frenar precios. El diésel en EE.UU. ya cuesta 6.50 dólares por galón, contra 5.61 hace un mes.",
+     "dato": {
+      "cifra": "US$6.50",
+      "contexto": "por galón de diésel en EE.UU. (AAA), contra 5.61 hace un mes"
+     },
+     "fuente": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "EE.UU. crea solo 29,000 empleos y la bolsa celebra que la Fed podría frenar",
+     "titularCorto": "Empleo débil, bolsa arriba",
+     "bajada": "Se esperaban 90,000 empleos. La probabilidad de un alza de tasas en octubre cayó a 22.7% y el Nasdaq subió 1.19%; el peso se apreció a unos 18.20 por dólar.",
+     "dato": {
+      "cifra": "29,000",
+      "contexto": "empleos creados en septiembre vs. 90,000 esperados"
+     },
+     "fuente": "Reuters",
+     "url": "https://www.marketscreener.com/news/equities-close-higher-as-softer-jobs-data-quiets-rate-hike-expectations-ce785ddbd88df124"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Ebrard y Greer se acercan en el T-MEC: la prioridad es bajar aranceles a acero y autos",
+     "titularCorto": "T-MEC: México y EE.UU. se acercan",
+     "bajada": "Ebrard dijo que \"cada día estamos más cerca de tener nuevos acuerdos\". No se anunció ninguna reducción concreta; México envía más de 85% de sus exportaciones a EE.UU.",
+     "dato": {
+      "cifra": "85%",
+      "contexto": "de las exportaciones de México van a EE.UU."
+     },
+     "fuente": "El País México",
+     "url": "https://elpais.com/mexico/economia/2026-10-02/marcelo-ebrard-tras-la-reunion-con-greer-en-el-g20-cada-dia-estamos-mas-cerca-de-tener-nuevos-acuerdos-con-ee-uu.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "El Gobierno prepara un decreto para que las plataformas retiren contenido que incite a la violencia",
+     "titularCorto": "Decreto para regular plataformas",
+     "bajada": "Se anunció tras el ataque en una secundaria de Torreón. Las plataformas tendrían que detectar, reportar y remover ese contenido; también se impulsará la verificación de edad para menores en redes.",
+     "fuente": "La Razón",
+     "url": "https://www.razon.com.mx/mexico/2026/10/03/ataque-en-torreon-sheinbaum-va-contra-contenido-violento-en-redes-sociales/"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "El FMI proyecta que México crecerá 1.5% en 2026, con señales de fragilidad",
+     "titularCorto": "FMI: México crecerá 1.5%",
+     "bajada": "Los analistas de Banxico suben su previsión a 1.4%, pero las remesas cayeron 3.6% anual en agosto. El FMI pide una política monetaria moderadamente restrictiva.",
+     "dato": {
+      "cifra": "1.5%",
+      "contexto": "crecimiento proyectado por el FMI para México en 2026"
+     },
+     "fuente": "FMI",
+     "url": "https://www.imf.org/es/news/articles/2026/10/02/cs-mexico-staff-concluding-statement-of-the-2026-article-iv-mission"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Amazon busca sacar de su balance 8,000 millones de dólares en chips Nvidia",
+     "titularCorto": "Amazon y sus chips fuera de balance",
+     "bajada": "Según el Financial Times, los movería a un vehículo de inversión y se los rentaría de vuelta. Son pláticas, no un trato cerrado.",
+     "dato": {
+      "cifra": "US$8B",
+      "contexto": "en chips Nvidia que Amazon movería a un vehículo de inversión"
+     },
+     "fuente": "Reuters / Financial Times",
+     "url": "https://www.channelnewsasia.com/business/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-6426021"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "España: protestas por la vivienda",
+     "detalle": "El Congreso tumbó los decretos de vivienda y Sánchez evalúa adelantar elecciones."
+    },
+    {
+     "titular": "Corea del Norte lanza un misil",
+     "detalle": "Un misil balístico de unos 700 km cayó al mar de Japón."
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-02",
+   "fechaLabel": "02 OCT 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Julie Sawyer Montgomery toma el mando de Danaher",
+     "titularCorto": "Danaher estrena CEO formada en casa",
+     "bajada": "Entró a la empresa en 2017 y llevó la división de Diagnostics de unos US$6 mil millones a cerca de US$11 mil millones en ingresos. Rainer Blair se queda como asesor hasta marzo de 2027.",
+     "dato": {
+      "cifra": "US$11B",
+      "contexto": "ingresos de Diagnostics bajo su liderazgo, desde ~US$6B"
+     },
+     "fuente": "Danaher Investor Relations",
+     "url": "https://investors.danaher.com/2026-10-01-Julie-Sawyer-Montgomery-Assumes-Role-as-Danaher-President-and-Chief-Executive-Officer"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Carlos Slim invierte 4,000 mdp en el Centro Histórico de Puebla",
+     "titularCorto": "Slim apuesta 4,000 mdp por Puebla",
+     "bajada": "Grupo Carso planea unos 700 departamentos e intervenir Paseo de San Francisco. Prevén ~1,500 empleos directos durante la obra; la primera etapa tomaría alrededor de dos años.",
+     "dato": {
+      "cifra": "4,000 mdp",
+      "contexto": "para ~700 departamentos y la regeneración de Paseo de San Francisco"
+     },
+     "fuente": "El CEO",
+     "url": "https://elceo.com/negocios/carlos-slim-saca-la-cartera-invertira-4000-mdp-en-un-nuevo-desarrollo-inmobiliario-en-puebla/"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Salesforce compra Listen Labs",
+     "detalle": "Operación de ~US$2 mil millones anunciada el 29 de septiembre."
+    },
+    {
+     "titular": "Supabase levanta US$150M",
+     "detalle": "Y compra Turso, anunciado el 2 de octubre."
+    },
+    {
+     "titular": "Kapital Bank vale ~US$2,000 mdd",
+     "detalle": "Además adquiere Woz Code."
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-01",
+   "fechaLabel": "01 OCT 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Keurig Dr Pepper nombra a Russ Torres CEO de su futura compañía de café",
+     "titularCorto": "KDP elige al tercer CEO para su negocio de café",
+     "bajada": "El COO de Kimberly-Clark llegará el 3 de noviembre para integrar el café de KDP con JDE Peet's. Es el tercer ejecutivo designado para el spin-off, que proyecta ~US$16 mil millones de ingreso anual y se separaría a inicios de 2027.",
+     "dato": {
+      "cifra": "US$16B",
+      "contexto": "ingreso anual proyectado de Global Coffee Co."
+     },
+     "fuente": "Keurig Dr Pepper",
+     "url": "https://www.keurigdrpepper.com/keurig-dr-pepper-names-russ-torres-chief-executive-officer-of-future-global-coffee-co/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Nu México nombra a Estephany Ley como nueva CEO",
+     "titularCorto": "Nu México cambia de CEO tras volverse banco",
+     "bajada": "La ejecutiva, que viene de dirigir banca minorista en BanCoppel, toma el cargo en noviembre. Armando Herrera, quien llevó la transición a banco, queda como asesor senior hasta enero de 2027; Rodrigo Kuri llega como presidente del Consejo.",
+     "dato": {
+      "cifra": "15+ años",
+      "contexto": "de experiencia en banca de la nueva CEO"
+     },
+     "fuente": "El Financiero",
+     "url": "https://www.elfinanciero.com.mx/economia/2026/09/29/nu-mexico-nombra-a-estephany-ley-como-nueva-ceo-era-el-momento-adecuado-para-un-nuevo-capitulo/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-09-30",
+   "fechaLabel": "30 SEP 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Mattel nombra a Roger Lynch, de Condé Nast, como chairman y CEO",
+     "titularCorto": "Mattel cambia al CEO de la era Barbie",
+     "bajada": "Ynon Kreiz sale tras más de ocho años en los que convirtió los juguetes en franquicias de entretenimiento. Lynch, consejero de Mattel desde 2018, será chairman el 2 de octubre y CEO a más tardar el 2 de noviembre.",
+     "dato": {
+      "cifra": "8+ años",
+      "contexto": "de Ynon Kreiz al frente de Mattel"
+     },
+     "fuente": "8-K de Mattel, CNBC, Variety",
+     "url": ""
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "OpenAI busca US$30 mil millones a una valuación de ~US$1.4 billones",
+     "titularCorto": "OpenAI levanta capital y pospone su salida a bolsa",
+     "bajada": "La empresa pospuso su salida a bolsa más allá de 2026. Su ingreso anualizado superó los US$40 mil millones y, según Bloomberg, creció ~70% desde julio. Su ronda anterior, en marzo, fue de US$122 mil millones.",
+     "dato": {
+      "cifra": "US$1.4T",
+      "contexto": "valuación que busca en su nueva ronda"
+     },
+     "fuente": "Bloomberg, CoinDesk",
+     "url": ""
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Filtro a inversión extranjera",
+     "detalle": "El Senado avanzó una revisión de seguridad nacional para cierta inversión extranjera."
+    },
+    {
+     "titular": "SAT revisa pérdidas fiscales",
+     "detalle": "Va contra ~183 mil empresas por presunto abuso de pérdidas fiscales."
+    }
+   ]
+  },
+  {
+   "fecha": "2026-09-29",
+   "fechaLabel": "29 SEP 2026",
+   "notas": [
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Meta contrata al CEO de MongoDB para lanzar su plataforma de IA para empresas",
+     "titularCorto": "Meta se lleva al CEO de MongoDB",
+     "bajada": "CJ Desai deja MongoDB a menos de un año de llegar para dirigir Meta Enterprise Platform. Dev Ittycheria regresa como CEO interino y la acción de MongoDB cayó entre 17% y 20%.",
+     "dato": {
+      "cifra": "-17 a -20%",
+      "contexto": "caída de la acción de MongoDB tras el anuncio"
+     },
+     "fuente": "TechCrunch, Reuters",
+     "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Slim y otros empresarios se reúnen con Sheinbaum para acelerar el Plan México",
+     "titularCorto": "Empresarios piden acelerar el Plan México",
+     "bajada": "Unos 12 empresarios, entre ellos Carlos Slim, Daniel Servitje y Antonio Chedraui, acordaron con la presidenta impulsar inversiones y reducir el tiempo para aterrizar proyectos de ~2.7 años a uno.",
+     "dato": {
+      "cifra": "2.7 → 1 año",
+      "contexto": "meta para aterrizar nuevos proyectos de inversión"
+     },
+     "fuente": "Frontera Civil",
+     "url": "https://fronteracivil.org/acuerdan-empresarios-motorizar-inversiones-ante-csp/"
+    }
+   ]
+  }
+ ]
+}
