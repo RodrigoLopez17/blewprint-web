@@ -192,7 +192,7 @@ fetch('notas.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw 0; retur
 </script>
 
 <script>
-const SUBS_URL = '';
+const SUBS_URL = 'https://script.google.com/macros/s/AKfycbyRjJh0ANkQNihar6kpEQCpjuUwYk8VTjb7MHzmeAgybEVokDHIifwpp2Bg7LHXm4Im/exec';
 (() => {
   const wrap = document.getElementById('suscribete-wrap'); if (!SUBS_URL) return; wrap.hidden = false;
   const f = document.getElementById('subs-form'), msg = document.getElementById('subs-msg'), btn = f.querySelector('button');
