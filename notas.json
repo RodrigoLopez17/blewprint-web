@@ -1,6 +1,94 @@
 {
- "actualizado": "04 oct 2026, 06:39 (hora de Mérida)",
+ "actualizado": "05 oct 2026, 09:17 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-10-05",
+   "fechaLabel": "05 OCT 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Flávio Bolsonaro gana la primera vuelta en Brasil y los mercados se disparan",
+     "titularCorto": "Brasil: Bolsonaro gana y el mercado vuela",
+     "bajada": "Flávio Bolsonaro sacó 47.03% contra 45.16% de Lula y habrá balotaje el 25 de octubre. El Ibovespa saltó cerca de 8% a récord y el peso mexicano perforó las 18.10 por dólar.",
+     "dato": {
+      "cifra": "207,000",
+      "contexto": "puntos: el Ibovespa marca récord histórico tras la votación"
+     },
+     "fuente": "La Tercera",
+     "url": "https://www.latercera.com/pulso/noticia/mercados-brasilenos-se-disparan-tras-resultados-de-las-elecciones/"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Schneider Electric compra PTC por US$22,600 millones y apuesta por la IA industrial",
+     "titularCorto": "Schneider compra PTC por US$22.6B",
+     "bajada": "Paga 205 dólares por acción en efectivo, una prima de 42.3%: la mayor compra en su historia. El mercado la castigó con una caída de más de 9% en París.",
+     "dato": {
+      "cifra": "US$22.6B",
+      "contexto": "valor del capital de PTC; la mayor adquisición de Schneider"
+     },
+     "fuente": "Euronews",
+     "url": "https://www.euronews.com/2026/10/05/schneider-electric-shares-plunge-on-record-226bn-ptc-deal"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "El euro cae a su mínimo en 17 meses por la deuda francesa y elecciones en España",
+     "titularCorto": "El euro, en mínimo de 17 meses",
+     "bajada": "El euro tocó cerca de 1.1161 dólares mientras el diferencial Francia–Alemania ronda 146 puntos base. Un euro débil fortalece al dólar y presiona a emergentes como México.",
+     "dato": {
+      "cifra": "1.1161",
+      "contexto": "dólares por euro, su nivel más bajo desde mayo de 2025"
+     },
+     "fuente": "Euronews",
+     "url": "https://www.euronews.com/2026/10/05/euro-hits-17-month-low-as-french-debt-fears-mount-and-spain-heads-for-snap-election"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Renuncia el ministro de Petróleo de Irán en plena crisis económica",
+     "titularCorto": "Irán: renuncia el ministro de Petróleo",
+     "bajada": "Mohsen Paknejad dejó el cargo con una inflación cercana a 85% y el dólar en récord de 269,000 tomanes. Más estrés en Irán significa más volatilidad en el petróleo.",
+     "dato": {
+      "cifra": "~85%",
+      "contexto": "inflación en Irán; la de alimentos ronda 130%"
+     },
+     "fuente": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "La inversión fija bruta en México sube 6.6% anual en julio",
+     "titularCorto": "Inversión en México sube 6.6%",
+     "bajada": "Inegi reportó el cuarto mes seguido al alza, con construcción +7.1% y maquinaria +6.2%. Alivia el relato de desaceleración, aunque la privada acumula apenas +0.4% en el año.",
+     "dato": {
+      "cifra": "6.6%",
+      "contexto": "crecimiento anual de la inversión fija bruta en julio"
+     },
+     "fuente": "Infobae",
+     "url": "https://www.infobae.com/america/agencias/2026/10/05/la-inversion-en-mexico-crece-un-66-interanual-en-julio-y-consolida-su-recuperacion/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Jay Clayton, jefe de inteligencia de EE. UU., será el zar de IA de la Casa Blanca",
+     "titularCorto": "EE. UU. nombra a su zar de IA",
+     "bajada": "Trump lo puso al frente de la \"Super Intelligence Force\", con 120 días para reportar riesgos y oportunidades de la IA. Quien fija las reglas en EE. UU. define el terreno para chips y data centers.",
+     "dato": {
+      "cifra": "120 días",
+      "contexto": "plazo del grupo para reportar riesgos y oportunidades de la IA"
+     },
+     "fuente": "Nextgov",
+     "url": "https://www.nextgov.com/people/2026/10/spy-chief-jay-clayton-takes-white-houses-ai-portfolio/416413/"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "España irá a elecciones anticipadas",
+     "detalle": "Pedro Sánchez las convocó para el 29 de noviembre."
+    },
+    {
+     "titular": "El peso, cerca de 18.07 por dólar",
+     "detalle": "Se fortaleció en parte por su uso para cubrir operaciones del real."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-04",
    "fechaLabel": "04 OCT 2026",
