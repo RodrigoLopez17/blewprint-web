@@ -62,6 +62,8 @@ h1,h2,h3{font-family:var(--font-display);font-weight:700;line-height:1.1;letter-
 .src{display:inline-block;margin-top:14px}
 .src a{color:var(--cian)}
 .side-stories{display:flex;flex-direction:column;gap:0;min-width:0}
+.main-col{display:flex;flex-direction:column;min-width:0}
+.main-col .more{margin-top:28px;display:flex;flex-direction:column}
 .story{border-top:1px solid var(--line);padding-block:18px;min-width:0}
 .side-stories .story:first-child{border-top:3px solid var(--ink)}
 .story h3{font-size:24px;line-height:1.12;margin-top:10px}
@@ -161,12 +163,18 @@ function render(){
   $('#today-date').textContent = longDate(today.fecha);
   const tn = (today.notas || []).filter(match);
   const [lead, ...others] = tn;
+  // Reparte las notas entre las dos columnas para que la columna principal no quede vacía.
+  const hasRadar = today.radar?.length && filter === 'Todo' && !q;
+  const k = others.length <= 2 ? others.length : Math.max(1, Math.ceil((others.length + (hasRadar ? 1 : 3)) / 2));
+  const side = others.slice(0, k), more = others.slice(k);
+  const story = n => `<article class="story"><span class="k sec">${esc(n.kicker)}</span><h3>${esc(n.titular)}</h3><p class="dek">${esc(n.bajada)}</p>${n.dato ? `<span class="fig">${esc(n.dato.cifra)}</span>` : ''}${src(n)}</article>`;
   $('#hoy').innerHTML = `
     <div class="dayhd"><span class="pill"><i></i>Lo que sopló hoy</span><h2>${esc(longDate(today.fecha).replace(/^./, c=>c.toUpperCase()))}</h2></div>
     ${lead ? `<div class="grid">
-      <article class="lead"><span class="k sec">${esc(lead.kicker)}</span><h3>${esc(lead.titular)}</h3><p class="dek">${esc(lead.bajada)}</p>
+      <div class="main-col"><article class="lead"><span class="k sec">${esc(lead.kicker)}</span><h3>${esc(lead.titular)}</h3><p class="dek">${esc(lead.bajada)}</p>
         ${lead.dato ? `<div class="dato"><span class="fig">${esc(lead.dato.cifra)}</span><span class="ctx">${esc(lead.dato.contexto)}</span></div>` : ''}${src(lead)}</article>
-      <div class="side-stories">${others.map(n => `<article class="story"><span class="k sec">${esc(n.kicker)}</span><h3>${esc(n.titular)}</h3><p class="dek">${esc(n.bajada)}</p>${n.dato ? `<span class="fig">${esc(n.dato.cifra)}</span>` : ''}${src(n)}</article>`).join('')}
+        ${more.length ? `<div class="more">${more.map(story).join('')}</div>` : ''}</div>
+      <div class="side-stories">${side.map(n => `<article class="story"><span class="k sec">${esc(n.kicker)}</span><h3>${esc(n.titular)}</h3><p class="dek">${esc(n.bajada)}</p>${n.dato ? `<span class="fig">${esc(n.dato.cifra)}</span>` : ''}${src(n)}</article>`).join('')}
         ${today.radar?.length && filter === 'Todo' && !q ? `<div class="radar"><h4>También sopló</h4><ul>${today.radar.map(r => `<li><b>${esc(r.titular)}</b>${esc(r.detalle)}</li>`).join('')}</ul></div>` : ''}
       </div></div>` : '<p class="none">Ninguna nota de hoy coincide con el filtro.</p>'}`;
   const days = rest.map(e => ({ e, ns: (e.notas || []).filter(match) })).filter(x => x.ns.length);
@@ -184,11 +192,25 @@ function chips(){
 $('#chips').addEventListener('click', e => { const b = e.target.closest('.chip'); if (!b) return; filter = b.dataset.s; chips(); render(); });
 $('#q').addEventListener('input', e => { q = e.target.value.trim().toLowerCase(); render(); });
 
-fetch('notas.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw 0; return r.json(); }).then(j => {
-  data = j; data.ediciones.sort((a,b) => b.fecha.localeCompare(a.fecha));
-  if (j.actualizado) $('#updated').textContent = 'Actualizado: ' + j.actualizado;
-  chips(); render();
-}).catch(() => { $('#hoy').innerHTML = '<p class="none">No se pudieron cargar las noticias. Recarga la página en unos segundos.</p>'; });
+// Ediciones: notas.json (respaldo en el sitio) + feed en vivo desde Drive (carpeta "Blewprint › Web", vía Apps Script).
+const FEED_URL = 'https://script.google.com/macros/s/AKfycbyRjJh0ANkQNihar6kpEQCpjuUwYk8VTjb7MHzmeAgybEVokDHIifwpp2Bg7LHXm4Im/exec?ediciones=1';
+const getJSON = (url, ms) => { const c = new AbortController(); const t = setTimeout(() => c.abort(), ms);
+  return fetch(url, { cache: 'no-store', signal: c.signal }).then(r => { clearTimeout(t); if (!r.ok) throw 0; return r.json(); }); };
+// Pinta en cuanto llega cualquiera de las dos fuentes y vuelve a pintar si la otra trae algo más nuevo.
+const byDate = new Map(); let shown = false, upd = { fecha: '', txt: '' };
+function absorb(j){
+  if (!j || !Array.isArray(j.ediciones)) return;
+  j.ediciones.forEach(e => { if (e && e.fecha && (e.notas || []).length) byDate.set(e.fecha, e); });
+  const top = j.ediciones.map(e => e.fecha).sort().pop() || '';
+  if (j.actualizado && top >= upd.fecha) upd = { fecha: top, txt: j.actualizado };
+  if (!byDate.size) return;
+  data = { ediciones: [...byDate.values()].sort((x, y) => y.fecha.localeCompare(x.fecha)) };
+  if (upd.txt) $('#updated').textContent = 'Actualizado: ' + upd.txt;
+  shown = true; chips(); render();
+}
+Promise.allSettled([getJSON('notas.json', 8000).then(absorb), FEED_URL ? getJSON(FEED_URL, 12000).then(absorb) : null]).then(() => {
+  if (!shown) $('#hoy').innerHTML = '<p class="none">No se pudieron cargar las noticias. Recarga la página en unos segundos.</p>';
+});
 </script>
 
 <script>

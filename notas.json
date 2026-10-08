@@ -1,6 +1,342 @@
 {
- "actualizado": "05 oct 2026, 09:17 (hora de Mérida)",
+ "actualizado": "07 oct 2026, 06:44 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-10-07",
+   "fechaLabel": "07 OCT 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "FINSA invierte más de US$644 millones en su mayor ciclo de compras",
+     "titularCorto": "FINSA apuesta US$644M al nearshoring",
+     "bajada": "La desarrolladora sumó 13 naves industriales clase A en Hidalgo, Monterrey, Ciudad Juárez y Aguascalientes. Es una apuesta de largo plazo al nearshoring justo cuando otros frenan inversión.",
+     "dato": {
+      "cifra": "US$644M",
+      "contexto": "inversión en 13 edificios industriales con 496 mil m² rentables"
+     },
+     "fuente": "El Cronista México",
+     "url": "https://www.cronista.com/mexico/finanzas-economia/finsa-se-prepara-para-la-nueva-ola-de-nearshoring-con-inversion-multimillonaria-en-parques-industriales/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Kapital Bank alcanza valuación de US$2,000 millones y compra a Woz Code",
+     "titularCorto": "Kapital Bank ya vale US$2,000 millones",
+     "bajada": "El banco levantó US$130 millones y pagó US$30 millones por la estadounidense Woz Code, especializada en IA. Crece a ritmo de startup y compite con la banca tradicional en crédito a pymes.",
+     "dato": {
+      "cifra": "US$2,000M",
+      "contexto": "valuación, desde US$1,300 millones en 2025"
+     },
+     "fuente": "Entorno VC",
+     "url": "https://entorno.vc/kapital-bank-recauda-us130-millones-y-alcanza-us2000-millones-de-valuacion-tras-comprar-woz-code-por-us30-millones/"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Google Cloud abre hub en Guadalajara y empuja agentes de IA en empresas",
+     "titularCorto": "Google Cloud abre hub en Guadalajara",
+     "bajada": "El anuncio llegó en el Google Cloud Summit México 2026, junto con más ingenieros dentro de las empresas. Según IDC y Provokers, 40% de las empresas en México ya trabaja en adoptar agentes de IA.",
+     "dato": {
+      "cifra": "40%",
+      "contexto": "de empresas en México ya trabaja en adoptar agentes de IA"
+     },
+     "fuente": "López-Dóriga Digital",
+     "url": "https://lopezdoriga.com/ciencia-tecnologia/google-cloud-abre-un-nuevo-hub-en-guadalajara-y-acelera-su-apuesta-por-la-ia-agentica/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Kontempo levanta US$10.5 millones para digitalizar el crédito industrial",
+     "titularCorto": "Kontempo levanta US$10.5 millones",
+     "bajada": "La Serie A fue liderada por Portage e IGNIA y la fintech ya suma más de US$40 millones entre deuda y capital. Busca que los proveedores den crédito a 30 o 60 días sin volverse bancos.",
+     "dato": {
+      "cifra": "US$180M",
+      "contexto": "en pagos procesados en más de 50 mil transacciones"
+     },
+     "fuente": "Latam Fintech Hub",
+     "url": "https://www.latamfintech.co/articles/fintech-kontempo-levanta-us-10-5m-en-serie-a-para-impulsar-su-plataforma-de-ia-para-el-credito-industrial-en-mexico"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Diputados aprueban la Ley de Economía Digital y la envían al Senado",
+     "titularCorto": "Avanza la Ley de Economía Digital",
+     "bajada": "La ley plantea que tarjetas, transferencias y CoDi sean el único pago aceptado en sectores que definirá Hacienda. Puede acelerar la formalización, pero la oposición advierte costos para pequeños comercios.",
+     "dato": {
+      "cifra": "330-122",
+      "contexto": "votación en lo general en la Cámara de Diputados"
+     },
+     "fuente": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-economia-digital-para-reducir-el-uso-de-efectivo-en-mexico/"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Diputados endurecen la Ley Aduanera contra el huachicol fiscal",
+     "titularCorto": "Reforma aduanera contra huachicol fiscal",
+     "bajada": "Desaparece el piso de 50% de subvaluación para embargar y las multas en combustibles irán de 50% a 100% del valor. Hacienda detectó 109 millones de litros de combustible no declarado.",
+     "dato": {
+      "cifra": "109M L",
+      "contexto": "de combustible no declarado entre sep 2025 y jun 2026"
+     },
+     "fuente": "Infobae",
+     "url": "https://www.infobae.com/mexico/2026/10/07/camara-de-diputados-avala-cambios-a-la-ley-aduanera-asi-castigara-la-subvaluacion-de-mercancias-y-el-huachicol-fiscal/"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Paramount cierra la compra de Warner Bros. Discovery y nace Skydance",
+     "titularCorto": "Paramount + Warner: nace Skydance",
+     "bajada": "La operación de US$110 mil millones junta Paramount+, HBO Max, CBS, CNN, DC y Game of Thrones bajo David Ellison. Menos jugadores en el entretenimiento y posibles cambios en precios de streaming.",
+     "dato": {
+      "cifra": "US$110B",
+      "contexto": "una de las fusiones más grandes de la historia"
+     },
+     "fuente": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "OpenAI publica 372 resultados de matemáticas de un modelo no lanzado",
+     "titularCorto": "OpenAI suelta 372 resultados matemáticos",
+     "bajada": "Incluyen avances en problemas abiertos como Kakeya en cuatro dimensiones y casi todos salieron de un solo agente. Hay escepticismo: no publicó los prompts ni el modelo.",
+     "dato": {
+      "cifra": "372",
+      "contexto": "resultados en matemáticas y computación teórica subidos a GitHub"
+     },
+     "fuente": "Scientific American",
+     "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "India sube su tasa por primera vez en años y descarta recortes",
+     "titularCorto": "India sube tasas a 5.50%",
+     "bajada": "El Banco de la Reserva de India subió 25 puntos base, de 5.25% a 5.50%, por petróleo caro y mal monzón. Cuando los bancos centrales aprietan, el dinero se encarece y presiona al peso.",
+     "dato": {
+      "cifra": "5.50%",
+      "contexto": "nueva tasa repo, alza unánime de 25 puntos base"
+     },
+     "fuente": "Business Standard",
+     "url": "https://www.business-standard.com/finance/news/rbi-mpc-october-2026-repo-rate-hike-inflation-growth-gdp-sanjay-malhotra-126100700222_1.html"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Lambda busca US$4,000 millones antes de su salida a bolsa",
+     "titularCorto": "Lambda busca US$4,000 millones",
+     "bajada": "La nube de GPUs tiene US$50 mil millones en contratos, pero US$35 mil millones vienen de Anthropic. La demanda de cómputo para IA sigue caliente, igual que el riesgo de depender de un cliente.",
+     "dato": {
+      "cifra": "US$35B",
+      "contexto": "de su cartera de US$50 mil millones viene de un solo cliente"
+     },
+     "fuente": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+    },
+    {
+     "kicker": "Administración · Internacional",
+     "titular": "Bruselas estudia cobrar a grandes empresas para alcanzar a las Big Tech",
+     "titularCorto": "La UE busca cobrarle a las Big Tech",
+     "bajada": "La Comisión Europea evalúa una contribución anual para empresas con ingresos de más de €100 millones en la UE, según el FT. Busca evitar un impuesto digital que provoque represalias de Trump.",
+     "dato": {
+      "cifra": "€100M",
+      "contexto": "umbral de ingresos anuales para pagar la contribución"
+     },
+     "fuente": "CNA/Reuters",
+     "url": "https://www.channelnewsasia.com/business/brussels-looks-capture-big-tech-through-tax-large-corporations-ft-reports-6438476"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Mistral lanza un modelo de un billón de parámetros entrenado con 4 mil GPUs",
+     "titularCorto": "Mistral lanza modelo de 1 billón",
+     "bajada": "Mistral Large 4 es multimodal y la empresa planea liberar sus pesos en unas tres semanas. Europa busca una tercera vía entre los modelos cerrados de EE.UU. y los abiertos de China.",
+     "dato": {
+      "cifra": "1T",
+      "contexto": "parámetros, entrenado con solo 4 mil GPUs de Nvidia"
+     },
+     "fuente": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Baja la apuesta por otra alza de la Fed",
+     "detalle": "El mercado ve 19.4% de probabilidad, desde 50.9% una semana antes (CME FedWatch)."
+    },
+    {
+     "titular": "SAT cancela 2,205 sellos para facturar",
+     "detalle": "Eran de comercializadoras ilegales de combustible, según Hacienda."
+    },
+    {
+     "titular": "Mistral, valuada en €21 mil millones",
+     "detalle": "La ronda del mes pasado fue liderada por Samsung."
+    },
+    {
+     "titular": "Skydance ya cotiza como SKYD",
+     "detalle": "La nueva empresa debutó en la bolsa de Nueva York."
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "fechaLabel": "06 OCT 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "La reforma judicial ya frena la inversión: 67.8% de empresas ve impacto",
+     "titularCorto": "Reforma judicial frena la inversión",
+     "bajada": "El primer Monitor Judicial de Data Coparmex, con 3,721 empresas, halló que 67.8% ya ve efectos negativos y 28.8% pospuso o recortó proyectos. Es el primer dato duro de que la incertidumbre jurídica se vuelve menos inversión.",
+     "dato": {
+      "cifra": "67.8%",
+      "contexto": "de las empresas ve impacto negativo en inversión o expansión"
+     },
+     "fuente": "Línea por Línea",
+     "url": "https://lineaporlinea.com/2026/10/05/reforma-judicial-frena-inversion-y-eleva-costos-para-empresas-advierte-coparmex/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Autorizan la venta de Movistar México a Oxio por US$450 millones",
+     "titularCorto": "Telefónica vende Movistar a Oxio",
+     "bajada": "La Comisión Nacional Antimonopolio aprobó que Telefónica venda su negocio mexicano a un vehículo de Oxio y Newfoundland Capital Management. Más de 20 millones de clientes pasan a un jugador chico que apuesta por operar en la nube.",
+     "dato": {
+      "cifra": "US$450M",
+      "contexto": "precio de la venta del negocio mexicano de Telefónica"
+     },
+     "fuente": "El País",
+     "url": "https://elpais.com/economia/2026-10-06/mexico-autoriza-la-venta-de-movistar-a-melisa-por-400-millones-de-euros.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "CloudHQ eleva a casi US$6,000 millones su campus de datos en Querétaro",
+     "titularCorto": "CloudHQ sube su apuesta en Querétaro",
+     "bajada": "La inversión para seis centros de datos pasa de US$4,800 a casi US$6,000 millones y la capacidad energética, de 250 a casi 1,000 MW. Querétaro se consolida como polo de datos, pero la pregunta es si la red eléctrica dará el ancho.",
+     "dato": {
+      "cifra": "1,000 MW",
+      "contexto": "capacidad energética del proyecto, antes 250 MW"
+     },
+     "fuente": "La de Hoy Querétaro",
+     "url": "https://ladehoy.com.mx/cloudhq-eleva-a-casi-6-mil-mdd-inversion-para-campus-de-data-centers-en-queretaro/"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "CRT lanza la primera licitación de espectro para redes privadas industriales",
+     "titularCorto": "Espectro propio para la industria",
+     "bajada": "La CRT aprobó las bases para asignar hasta 60 MHz en la banda de 2.3 GHz en 72 regiones industriales. Es la primera vez que el espectro va directo al sector productivo: fábricas y parques podrán tener su propia red.",
+     "dato": {
+      "cifra": "72",
+      "contexto": "regiones industriales incluidas en la licitación"
+     },
+     "fuente": "Hoja de Ruta Digital",
+     "url": "https://hojaderutadigital.mx/crt-lanzara-licitacion-de-espectro-de-radiocomunicaciones-inteligentes-para-impulsar-la-transformacion-digital-de-la-industria/"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Sheinbaum licita todas las obras del sexenio como proyectos hasta 2030",
+     "titularCorto": "Obras del sexenio, licitadas ya",
+     "bajada": "Trenes, carreteras, agua y vivienda se licitan como proyectos plurianuales para que la construcción no pare hasta 2029-2030. Es un piso de demanda para constructoras y proveedores, pero compromete gasto futuro.",
+     "dato": {
+      "cifra": "667 mil",
+      "contexto": "viviendas contratadas en Vivienda para el Bienestar"
+     },
+     "fuente": "El Mexicano",
+     "url": "https://el-mexicano.com.mx/Noticia/Nacional/100207/Sheinbaum-prev%C3%A9-mejores-indicadores-econ%C3%B3micos-para-cierre-de-2026-y-2027"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "El límite a deducciones del ISR en el Paquete 2027 preocupa a empresarios",
+     "titularCorto": "ISR 2027: alerta por deducciones",
+     "bajada": "La propuesta limita deducciones y pérdidas fiscales de empresas con ingresos de más de 50 millones de pesos para combatir factureras. Coparmex CDMX advierte que castigaría a quien apenas está invirtiendo.",
+     "dato": {
+      "cifra": "50 mdp",
+      "contexto": "ingresos a partir de los que aplicaría el límite"
+     },
+     "fuente": "Proceso",
+     "url": "https://www.proceso.com.mx/economia/2026/10/6/empresarios-de-la-cdmx-temen-que-el-paquete-economico-2027-ahuyente-a-los-inversionistas-381262.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "El bono de EE.UU. a 10 años toca 5.31% y aun así el Nasdaq marca récord",
+     "titularCorto": "Bono a 10 años en máximo desde 2002",
+     "bajada": "El Treasury a 10 años cerró en 5.31%, su nivel más alto desde abril de 2002, mientras el Nasdaq subió a 27,477.31 impulsado por la IA. El dinero está carísimo y eso presiona al peso y al crédito en México.",
+     "dato": {
+      "cifra": "5.31%",
+      "contexto": "rendimiento del bono a 10 años, máximo desde 2002"
+     },
+     "fuente": "WSJ",
+     "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-ai-bets-offset-bond-yield-fears-9dd6ce7f"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Google firma acuerdo nuclear de 20 años con Constellation por 890 MW",
+     "titularCorto": "Google le apuesta a la energía nuclear",
+     "bajada": "Google financiará mejoras en 11 reactores de Constellation que sumarán 890 MW nuevos a la red, el primero hacia 2028. Las tecnológicas ya no solo compran energía: financian su creación.",
+     "dato": {
+      "cifra": "890 MW",
+      "contexto": "nuevos a la red, equivalente a un reactor grande"
+     },
+     "fuente": "Business Wire",
+     "url": "https://www.stocktitan.net/news/CEG/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-8qwd7mmrp4hm.html"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Foxconn rompe récord: vende más de NT$1 billón en un solo mes por la IA",
+     "titularCorto": "Foxconn, récord mensual por la IA",
+     "bajada": "Hon Hai vendió NT$1.16 billones en septiembre, 38% más que hace un año, empujado por servidores para IA. Con operaciones en México, su ritmo importa para las exportaciones electrónicas del país.",
+     "dato": {
+      "cifra": "+38%",
+      "contexto": "ventas de septiembre contra el mismo mes de 2025"
+     },
+     "fuente": "CNBC TV18/Reuters",
+     "url": "https://www.cnbctv18.com/technology/foxconn-third-quarter-revenue-soars-on-ai-demand-beats-market-forecast-20004748.htm"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "ChatGPT empieza a mostrar anuncios junto a las imágenes que genera",
+     "titularCorto": "ChatGPT estrena anuncios visuales",
+     "bajada": "OpenAI mostrará anuncios de display junto a imágenes generadas, desde este mes y solo en EE.UU. Con 1,200 millones de usuarios semanales, ChatGPT se perfila como canal publicitario frente a Google y Meta.",
+     "dato": {
+      "cifra": "1,200M",
+      "contexto": "usuarios semanales de ChatGPT"
+     },
+     "fuente": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "C.H. Robinson compra RXO por US$5,800 millones y apuesta a la IA",
+     "titularCorto": "C.H. Robinson compra RXO",
+     "bajada": "La operación en efectivo y acciones paga US$30.25 por acción, una prima de 29%, y crea una empresa de más de US$25,000 millones. Se consolida el corretaje de carga que mueve el comercio México-EE.UU.",
+     "dato": {
+      "cifra": "US$5.8B",
+      "contexto": "valor implícito de la compra de RXO"
+     },
+     "fuente": "C.H. Robinson",
+     "url": "https://www.chrobinson.com/en-us/about-us/newsroom/press-releases/2026/ch-robinson-to-acquire-rxo/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Corea del Sur invertirá US$3,500 millones en un modelo de IA de frontera",
+     "titularCorto": "Corea va por su propia IA de frontera",
+     "bajada": "El gobierno pondrá 4.7 billones de wones desde 2027, la mayor parte para 10,000 GPUs Nvidia Vera Rubin. Los países ya tratan la IA como infraestructura nacional, igual que carreteras o energía.",
+     "dato": {
+      "cifra": "10,000",
+      "contexto": "GPUs Nvidia Vera Rubin para el proyecto"
+     },
+     "fuente": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/business/tech-science/20261005/korea-to-launch-35-bil-frontier-ai-project-next-year"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Nikkei supera los 70,000 puntos",
+     "detalle": "El índice de Tokio cerró arriba de esa marca por primera vez desde julio, en parte por el dato de Foxconn."
+    },
+    {
+     "titular": "Red 5G para trenes: fallo el 16 de octubre",
+     "detalle": "Hubo tres ofertas de US$51.6 a US$400 millones para cubrir 675 km de vías."
+    },
+    {
+     "titular": "Nvidia toca máximo histórico",
+     "detalle": "La acción acompañó el récord del Nasdaq del lunes 5 de octubre."
+    },
+    {
+     "titular": "Marcas de agua invisibles en ChatGPT",
+     "detalle": "OpenAI las aplicará en textos para usuarios de la Unión Europea."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-05",
    "fechaLabel": "05 OCT 2026",
