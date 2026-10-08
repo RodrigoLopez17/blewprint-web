@@ -193,7 +193,7 @@ $('#chips').addEventListener('click', e => { const b = e.target.closest('.chip')
 $('#q').addEventListener('input', e => { q = e.target.value.trim().toLowerCase(); render(); });
 
 // Ediciones: notas.json (respaldo en el sitio) + feed en vivo desde Drive (carpeta "Blewprint › Web", vía Apps Script).
-const FEED_URL = 'https://script.google.com/macros/s/AKfycbyRjJh0ANkQNihar6kpEQCpjuUwYk8VTjb7MHzmeAgybEVokDHIifwpp2Bg7LHXm4Im/exec?ediciones=1';
+const FEED_URL = 'https://script.google.com/macros/s/AKfycbzUTkMOxxxT0lTxPigt26ZG0oAp5z0S4E6grXHH4YSkqZOR3sl-LaMzg8ETjbL2w0_m/exec';
 const getJSON = (url, ms) => { const c = new AbortController(); const t = setTimeout(() => c.abort(), ms);
   return fetch(url, { cache: 'no-store', signal: c.signal }).then(r => { clearTimeout(t); if (!r.ok) throw 0; return r.json(); }); };
 // Pinta en cuanto llega cualquiera de las dos fuentes y vuelve a pintar si la otra trae algo más nuevo.
