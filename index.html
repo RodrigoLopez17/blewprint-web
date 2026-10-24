@@ -208,7 +208,7 @@ function absorb(j){
   if (upd.txt) $('#updated').textContent = 'Actualizado: ' + upd.txt;
   shown = true; chips(); render();
 }
-Promise.allSettled([getJSON('notas.json', 8000).then(absorb), FEED_URL ? getJSON(FEED_URL, 12000).then(absorb) : null]).then(() => {
+Promise.allSettled([getJSON('notas.json', 8000).then(absorb), FEED_URL ? getJSON(FEED_URL, 30000).then(absorb) : null]).then(() => {
   if (!shown) $('#hoy').innerHTML = '<p class="none">No se pudieron cargar las noticias. Recarga la página en unos segundos.</p>';
 });
 </script>
