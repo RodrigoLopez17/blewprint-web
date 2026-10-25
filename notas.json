@@ -1,6 +1,162 @@
 {
- "actualizado": "24 oct 2026, 06:13 (hora de Mérida)",
+ "actualizado": "25 oct 2026, 06:20 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-10-25",
+   "fechaLabel": "25 OCT 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "El peso suma siete semanas a la baja, su peor racha desde 2019",
+     "titularCorto": "Peso: siete semanas de caída",
+     "bajada": "El peso cerró la semana en alrededor de 18.66 por dólar y llegó a tocar 18.85, nivel no visto desde septiembre de 2025. Un dólar más caro encarece insumos y deudas, pero ayuda a exportadores.",
+     "dato": {
+      "cifra": "10.49%",
+      "contexto": "caída acumulada en siete semanas"
+     },
+     "fuente": "EFE",
+     "url": "https://efe.com/economia/2026-10-24/peso-mexicano-caida/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Rotoplas eleva 50.7% su utilidad operativa con suscripciones de agua",
+     "titularCorto": "Rotoplas y las suscripciones",
+     "bajada": "En el 3T26 Rotoplas vendió 2,927 millones de pesos (+9.6%) y su EBITDA subió 35.4%. Su plataforma bebbia superó 208,000 suscriptores: un negocio de tinacos con ingresos recurrentes.",
+     "dato": {
+      "cifra": "208,000",
+      "contexto": "suscriptores activos de bebbia"
+     },
+     "fuente": "The Intelligent",
+     "url": "https://theintelligent.mx/economia/2026/rotoplas-eleva-354-por-ciento-su-ebitda-en-el-tercer-trimestre-impulsado-por-ventas"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Tractian, con I+D en Monterrey, vale US$1,400 millones tras su Serie D",
+     "titularCorto": "Tractian ya es unicornio",
+     "bajada": "La plataforma de IA física levantó US$130 millones en una Serie D liderada por Sapphire Ventures. Tiene más de 2,000 clientes y apostó por Monterrey como centro de I+D.",
+     "dato": {
+      "cifra": "US$130M",
+      "contexto": "Serie D liderada por Sapphire Ventures"
+     },
+     "fuente": "Tractian",
+     "url": "https://tractian.com/es/blog/tractian-obtiene-us-130-millones-y-alcanza-una-valuacion-de-us-1-400-millones-para-desarrollar-ia-fisica-para-activos-criticos"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Diputados recortan 12% los derechos de espectro; el Senado vota el martes",
+     "titularCorto": "Baja 12% el costo del espectro",
+     "bajada": "La Ley Federal de Derechos 2027 reduce 12% las cuotas por espectro móvil en seis bandas. Pasó 329 a 117 en Diputados y el pleno del Senado prevé votar el martes 27.",
+     "dato": {
+      "cifra": "12%",
+      "contexto": "reducción nominal en cuotas de espectro"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/empresas/diputados-aprueban-reducir-12-derechos-espectro-20261016-838954.html"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Ebrard negocia en Washington; Trump ve cerca un pacto, pero con condiciones",
+     "titularCorto": "Ebrard negocia aranceles",
+     "bajada": "Ebrard dijo que avanzan para reducir aranceles de la Sección 232 a autos, acero y aluminio. Trump afirmó que firmará solo si es muy bueno para EU. No hay términos ni fecha.",
+     "dato": {
+      "cifra": "50%",
+      "contexto": "arancel a acero y aluminio (Sección 232)"
+     },
+     "fuente": "La Razón",
+     "url": "https://www.razon.com.mx/negocios/2026/10/24/eu-ve-cerca-pacto-con-mexico-ebrard-urge-a-bajar-aranceles/"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Salud ahorra 7,000 millones al comprar 800 equipos médicos con subasta inversa",
+     "titularCorto": "Salud ahorra 7,000 mdp",
+     "bajada": "Concluyeron las licitaciones de 800 equipos de alta tecnología, entre ellos 500 mastógrafos. Con subastas inversas, el costo bajó de 21 mil a 14 mil millones de pesos.",
+     "dato": {
+      "cifra": "7,000 mdp",
+      "contexto": "ahorro: de 21 mil a 14 mil millones"
+     },
+     "fuente": "La Jornada",
+     "url": "https://www.jornada.com.mx/2026/10/24/politica/006n1pol"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Nvidia, de vender chips a ser el banco de la IA, enfrenta su primera gran prueba",
+     "titularCorto": "Nvidia, el banco de la IA",
+     "bajada": "Nvidia tiene US$36,000 millones en garantías fuera de balance para neoclouds y hasta US$105,000 millones para un data center de OpenAI en Ohio. Las acciones que respalda caen al menos 30% en octubre.",
+     "dato": {
+      "cifra": "US$36B",
+      "contexto": "garantías fuera de balance a neoclouds"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Anthropic: ingresos crecen 15 veces y su pérdida neta llega a US$80,700 millones",
+     "titularCorto": "Anthropic: crece 15x y pierde",
+     "bajada": "Según un borrador de prospecto visto por el WSJ, Anthropic ingresó US$16,300 millones en el primer semestre de 2026. Unos US$72,000 millones de la pérdida son cargos contables no monetarios.",
+     "dato": {
+      "cifra": "US$16,300M",
+      "contexto": "ingresos del primer semestre de 2026"
+     },
+     "fuente": "WSJ",
+     "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Tesla y SpaceX forman comités para evaluar una posible fusión",
+     "titularCorto": "Tesla y SpaceX evalúan fusión",
+     "bajada": "Los consejos crearon comités de consejeros independientes a petición de accionistas. Musk apoya la idea, pero no hay términos acordados ni es un hecho.",
+     "dato": {
+      "cifra": "50%",
+      "contexto": "de accionistas de Tesla tendría que votar"
+     },
+     "fuente": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "DeepSeek levanta unos US$15,000 millones pese a las restricciones de EU",
+     "titularCorto": "DeepSeek levanta US$15,000M",
+     "bajada": "El laboratorio chino casi duplicó su meta, con CATL y Tencent entre los inversionistas. Llega dos días después de que EU ordenara a sus agencias civiles retirar su tecnología.",
+     "dato": {
+      "cifra": "US$15,000M",
+      "contexto": "ronda cercana a 100 mil millones de yuanes"
+     },
+     "fuente": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "IBM supera expectativas y su CEO dice que los clientes exigen retorno de la IA",
+     "titularCorto": "IBM: los clientes piden retorno",
+     "bajada": "IBM reportó ingresos del 3T26 de US$17,100 millones (+5%) y subió su guía de flujo libre. Arvind Krishna dijo que las empresas revisan con más cuidado el retorno de sus inversiones en IA.",
+     "dato": {
+      "cifra": "US$17,100M",
+      "contexto": "ingresos del 3T26, +5%"
+     },
+     "fuente": "IBM Newsroom",
+     "url": "https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "El fondo BCRED de Blackstone pagó solo cerca de la mitad de los retiros",
+     "titularCorto": "BCRED limita retiros",
+     "bajada": "Inversionistas pidieron retirar cerca de 10% de las acciones, unos US$4,300 millones, pero el tope trimestral es 5%. Las salidas netas fueron de unos US$1,400 millones.",
+     "dato": {
+      "cifra": "US$4,300M",
+      "contexto": "retiros pedidos, cerca de 10% de acciones"
+     },
+     "fuente": "PitchBook",
+     "url": "https://pitchbook.com/news/articles/blackstones-bcred-reports-share-repurchase-requests-of-10-in-q3"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Semana clave: Senado, Fed y big tech",
+     "detalle": "El Senado vota el martes 27, la Fed decide el miércoles y reportan Alphabet, Microsoft y Amazon."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-24",
    "fechaLabel": "24 OCT 2026",
