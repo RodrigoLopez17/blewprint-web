@@ -1,6 +1,157 @@
 {
- "actualizado": "25 oct 2026, 06:20 (hora de Mérida)",
+ "actualizado": "27 oct 2026, 06:21 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-10-27",
+   "fechaLabel": "27 OCT 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "La economía mexicana crece 3.5% en agosto, su mejor dato en casi tres años",
+     "titularCorto": "Economía crece 3.5% en agosto",
+     "bajada": "El IGAE de INEGI subió 0.6% mensual y 3.5% anual en agosto, el mayor avance desde septiembre de 2023. Con inflación en 3.62%, Banxico tiene poco margen para bajar tasas.",
+     "dato": {
+      "cifra": "3.5%",
+      "contexto": "Crecimiento anual del IGAE en agosto"
+     },
+     "fuente": "TRF Bolsa",
+     "url": "https://informacion.trfbolsa.mx/images/bucket/analisis-financiero/informacion-analisis/panorama_mercado_financiero.pdf"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Coca-Cola FEMSA crece volumen 5.3% y utilidad de operación 15.4% en el 3T26",
+     "titularCorto": "KOF: utilidad de operación +15.4%",
+     "bajada": "KOF reportó volumen +5.3%, ingresos +10.9% y utilidad de operación +15.4% en el 3T26, con el consumo en México aún desafiante. Es un termómetro del consumo masivo.",
+     "dato": {
+      "cifra": "15.4%",
+      "contexto": "Utilidad de operación de KOF en 3T26"
+     },
+     "fuente": "Coca-Cola FEMSA",
+     "url": "https://investors.coca-colafemsa.com/assets/files/reportes_resultados_esp/2026/coca-cola-femsa-resultados-3t26.pdf"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Revolut lanza portabilidad de nómina en México y va por tu quincena",
+     "titularCorto": "Revolut va por la nómina",
+     "bajada": "Revolut lanza portabilidad de nómina vía SPEI, 100% digital y en 2 a 10 días hábiles. Los neobancos ya compiten de frente por el producto más rentable de la banca tradicional.",
+     "dato": {
+      "cifra": "+1 millón",
+      "contexto": "Clientes de Revolut en México"
+     },
+     "fuente": "Expansión",
+     "url": "https://expansion.mx/economia/2026/10/26/revolut-entra-a-la-captacion-de-nomina-de-trabajadores-en-mexico"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Oracle abre su programa de startups a México con créditos de hasta US$50 mil",
+     "titularCorto": "Oracle apoya startups mexicanas",
+     "bajada": "Startup Growth Engine da a startups mexicanas créditos de US$5,000 a US$50,000 en la nube de Oracle, más mentorías. Entre junio y octubre aprobó 131 de 389 solicitudes en la región.",
+     "dato": {
+      "cifra": "US$50 mil",
+      "contexto": "Máximo en créditos de nube OCI"
+     },
+     "fuente": "El CEO",
+     "url": "https://elceo.com/tecnologia/oracle-programa-startups-mexicanas/"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Transportistas se enfrentan a Hacienda por el estímulo fiscal de casetas",
+     "titularCorto": "Transportistas vs. Hacienda",
+     "bajada": "Hacienda propone bajar en 2027 de 300 a 250 millones de pesos el tope de ingresos para acreditar hasta 50% del gasto en peajes. Hubo protestas y bloqueos, y mesa en Gobernación.",
+     "dato": {
+      "cifra": "250 mdp",
+      "contexto": "Tope de ingresos propuesto para 2027"
+     },
+     "fuente": "La Jornada",
+     "url": "https://www.jornada.com.mx/noticia/2026/10/26/economia/reduccion-de-tope-maximo-de-deducibilidad-de-gastos-en-casetas-solo-afecta-a-170-grandes-empresas-sheinbaum"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Plan federal de agua para Guadalajara evitaría una deuda de 54 mil mdp",
+     "titularCorto": "Plan de agua para Guadalajara",
+     "bajada": "Sheinbaum presentará el miércoles con el gobernador de Jalisco el proyecto integral de agua para Guadalajara. Sobre el acuerdo con EU: vamos muy avanzados, pero todavía falta.",
+     "dato": {
+      "cifra": "54 mil mdp",
+      "contexto": "Deuda que evitaría Jalisco"
+     },
+     "fuente": "Ámbito",
+     "url": "https://www.ambito.com/mexico/informacion-general/la-mananera-claudia-sheinbaum-hoy-lunes-26-octubre-2026-minuto-minuto-vivo-n6336230"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Anthropic presenta su S-1 y saldrá al Nasdaq como ANT",
+     "titularCorto": "Anthropic sale a bolsa",
+     "bajada": "La creadora de Claude hizo público su prospecto: ingresos de US$16,290 millones en el semestre a junio y pérdidas de US$80,700 millones. Podría cotizar desde la semana previa a Thanksgiving.",
+     "dato": {
+      "cifra": "+1,304%",
+      "contexto": "Ingresos del semestre vs un año antes"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Microsoft ofrece salida voluntaria a cerca de 60,000 empleados",
+     "titularCorto": "Microsoft: retiro voluntario",
+     "bajada": "La oferta cubre a cerca de una cuarta parte de su plantilla en EU, Canadá, India y Reino Unido. Los empleados deciden a inicios de diciembre y salen el 31 de diciembre.",
+     "dato": {
+      "cifra": "~60,000",
+      "contexto": "Empleados con oferta de retiro voluntario"
+     },
+     "fuente": "Blog oficial de Microsoft",
+     "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Meta quiere levantar hasta US$95,000 millones en acciones para IA",
+     "titularCorto": "Meta busca US$95,000 millones",
+     "bajada": "Registró ante la SEC un plan de emisión de acciones para centros de datos e infraestructura de IA. Su acción cayó 1.9%.",
+     "dato": {
+      "cifra": "US$95,000M",
+      "contexto": "Emisión máxima registrada ante la SEC"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Audi construirá su primera planta en EU: US$4,000 millones en Georgia",
+     "titularCorto": "Audi construirá planta en EU",
+     "bajada": "Invertirá unos US$4,000 millones cerca de Macon, Georgia, con 4,500 empleos y capacidad de hasta 200,000 SUV premium al año. Audi citó aranceles y ambiciones de crecimiento.",
+     "dato": {
+      "cifra": "US$4,000M",
+      "contexto": "Inversión de Audi en Georgia"
+     },
+     "fuente": "Audi",
+     "url": "https://www.audi.com/en/press-releases/audi-to-establish-first-us-production-site-in-georgia-investing-4-billion-and-creating-4500-jobs-18420"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Petróleo cede, pero sigue cerca de máximos por ataques en Arabia Saudita",
+     "titularCorto": "Petróleo cede pero sigue alto",
+     "bajada": "El Brent cerró en US$115.81 (-0.8%) y el WTI en US$101.76 (-1.5%) por esperanzas de desescalada entre EU e Irán. Ataques hutíes en Arabia Saudita mantienen el riesgo.",
+     "dato": {
+      "cifra": "US$115.81",
+      "contexto": "Brent al cierre del 26 de octubre"
+     },
+     "fuente": "WSJ",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Corea vuela: KOSPI sube 3.09% con Samsung y SK hynix antes de reportar",
+     "titularCorto": "KOSPI sube 3.09%",
+     "bajada": "El KOSPI cerró en 5,638.34, con Samsung +4.23% y SK hynix +5.18%, impulsados por el optimismo en IA y un petróleo más barato. Ambas reportan entre el 28 y 29 de octubre.",
+     "dato": {
+      "cifra": "+3.09%",
+      "contexto": "KOSPI al cierre del 27 de octubre"
+     },
+     "fuente": "Yonhap",
+     "url": "https://en.yna.co.kr/view/AEN20261027007651320"
+    }
+   ],
+   "radar": []
+  },
   {
    "fecha": "2026-10-25",
    "fechaLabel": "25 OCT 2026",

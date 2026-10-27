@@ -13,7 +13,8 @@ usadas = set()
 
 def api(path, **kw):
     params = dict(key=key, safesearch='true', per_page=20, **kw)
-    with urllib.request.urlopen(f'https://pixabay.com/api/{path}?' + urllib.parse.urlencode(params), timeout=20) as r:
+    req = urllib.request.Request(f'https://pixabay.com/api/{path}?' + urllib.parse.urlencode(params), headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, timeout=20) as r:
         return json.load(r).get('hits', [])
 
 def bajar(url, dest):
