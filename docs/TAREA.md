@@ -59,7 +59,8 @@ Respeta el orden de importancia. Máximo 12 notas. Formato exacto:
     "musica": estilo y BPM (sin nombres de canciones),
     "caption": gancho, 1-2 frases con datos, una pregunta y 5 hashtags empezando por #Blewprint e incluyendo #Reels,
     "reel": {"kicker": "Empresa o tema · contexto" (máx ~30), "escenas": [ 7 a 9 escenas, 26 a 34 s en total (reel.py v4 alarga cada escena lo necesario para que se lea):
-       - Empieza SIEMPRE con la portada {"tipo":"hook","dur":3.2,"etiqueta": 1-3 palabras en mayúsculas,"cifra": la cifra más fuerte (máx 8 caracteres),"html": frase de contraste de 4 a 8 palabras con la palabra clave entre <em></em>,"sub": remate, máx ~45,"busqueda": 2-4 palabras EN INGLÉS para la foto de fondo}. Nunca uses "golpe".
+       - Empieza SIEMPRE con la portada {"tipo":"hook","dur":3.2,"etiqueta": 1-3 palabras en mayúsculas,"cifra": la cifra más fuerte, máx 8 caracteres contando signos (ej. "-85%", "+1.14%", "US$9B"; si no cabe, deja solo el número y pon la unidad en "sub"),"html": frase de contraste de 4 a 8 palabras con la palabra clave entre <em></em>,"sub": remate, máx ~45,"busqueda": 2-4 palabras EN INGLÉS para la foto de fondo}. Nunca uses "golpe".
+       - Búsquedas de Pixabay: describe una escena genérica relacionada con la nota (ej. "currency exchange board", "factory workers", "stock market screen"). Evita billetes, banderas, monumentos, ciudades o edificios reconocibles que no sean del país de la nota: Pixabay suele devolver los de otro país.
        - 3 o 4 escenas {"tipo":"foto"|"video" (alterna),"dur":3.0,"busqueda": 2-4 palabras EN INGLÉS de lo que se ve,"busqueda2": alternativa más general,"cifra": opcional (máx 10),"texto": un hecho, máx ~70}.
        - 1 {"tipo":"contador","dur":3.4,"valor": número sin símbolos,"dec": 0-2,"pre": "+", "-", "US$" o "","suf": "%" o "","texto": qué es, máx ~50}.
        - Si hay 2 a 4 cifras comparables de la MISMA unidad: 1 {"tipo":"barras","dur":4.4,"titulo": máx ~35,"barras":[{"etiqueta": máx ~22,"valor": número,"texto": cómo se muestra}]}.
@@ -97,13 +98,13 @@ ArtifactData get de `ediciones/<fecha>` (debe incluir "videos"), Artifact read p
 ## PASO 6 — Producir imágenes y reels (un solo comando)
 
 1. Artifact "read" sin path de https://claude.ai/artifact/LtgG7h5EvfmczZzpcKUD2N: el resultado dice en qué archivo local quedó la página del Estudio (`<estudio>`).
-2. Ejecuta (Playwright y Chromium ya están instalados; no ejecutes "playwright install"; tarda ~5-10 min):
+2. Usa el Python que ya tenga Playwright: prueba `python3 -c "import playwright"` y, si falla, `/usr/bin/python3 -c "import playwright"`; usa el primero que funcione (Chromium ya está instalado; no ejecutes "playwright install"). Solo si ninguno lo tiene, `pip install playwright` y avísalo en la notificación. Ejecuta con ese Python (tarda ~5-10 min):
 ```
 python3 -I <repo>/automation/pipeline.py /home/claude/auto/edicion.json <estudio> /home/claude/auto/out/<fecha> --fuente /home/claude/auto/recopilacion.txt
 ```
    Valida otra vez, renderiza los JPEG, baja fotos de Pixabay (PIXABAY_KEY), genera los 3 reels en paralelo, los revisa con ffprobe y escribe `/home/claude/auto/out/<fecha>-trabajo/publicar.json` con cada llamada a Metricool ya armada y las horas recorridas si alguna ya pasó.
 3. Lee el resumen: "OMITIDO" (texto encimado) y "REEL FALLIDO" no se programan y se reportan; "RECORRIDO" se menciona en la notificación.
-4. Mira con Read una o dos imágenes de `out/<fecha>/` y los cuadros de `out/<fecha>-trabajo/cuadros/`: el de 1 s de cada reel debe mostrar la portada con foto, cifra y texto. Si algo se ve mal, quita esas llamadas de publicar.json y repórtalo.
+4. Mira con Read una o dos imágenes de `out/<fecha>/` y los cuadros de `out/<fecha>-trabajo/cuadros/`: el de 1 s de cada reel debe mostrar la portada con foto, cifra completa y texto, y la foto debe tener que ver con la nota. Si un reel se ve mal, corrige su escena en edicion.json (otra "busqueda", cifra más corta) y vuelve a correr el pipeline completo (ArtifactData update de ediciones/<fecha> con el cambio). Si aun así se ve mal, quita sus llamadas de publicar.json y repórtalo.
 
 ## PASO 7 — GitHub
 
@@ -114,6 +115,7 @@ python3 -I <repo>/automation/pipeline.py /home/claude/auto/edicion.json <estudio
 python3 -I <repo>/automation/subir_media.py <repo> /home/claude/auto/out/<fecha>
 ```
   Sube la carpeta del día a la rama huérfana `media` (push --force) y confirma que las URLs públicas respondan. Si sale con error, no programes nada que dependa de esos archivos y repórtalo.
+- Metricool copia cada archivo en el momento de programar: termina TODOS los cambios a imágenes y reels y corre subir_media.py ANTES de la primera llamada del PASO 8. Nunca vuelvas a generar un archivo que ya se programó.
 
 ## PASO 8 — Metricool
 

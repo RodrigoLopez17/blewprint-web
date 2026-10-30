@@ -86,7 +86,9 @@ def validar(ed, fuente=''):
             if t == 'hook':
                 if not e.get('cifra'): av.append(f'{de}: la portada no tiene "cifra"')
                 if '<em>' not in (e.get('html') or ''): av.append(f'{de}: la portada no marca la palabra clave con <em>')
-                largo(f'{de}.cifra', e.get('cifra'), 8); largo(f'{de}.sub', e.get('sub'), 45)
+                if len(e.get('cifra') or '') > 8:  # la cifra gigante de la portada se corta con más de 8 caracteres
+                    err.append(f'{de}.cifra "{e["cifra"]}" tiene más de 8 caracteres y se corta; deja el número y pasa la unidad a "sub"')
+                largo(f'{de}.sub', e.get('sub'), 45)
             if t in ('foto', 'video') and not e.get('busqueda'): err.append(f'{de}: falta "busqueda" para Pixabay')
             if t == 'contador' and not isinstance(e.get('valor'), (int, float)): err.append(f'{de}.valor debe ser número')
             if t == 'barras':
