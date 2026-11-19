@@ -1,6 +1,153 @@
 {
- "actualizado": "18 nov 2026, 05:35 (hora de Mérida)",
+ "actualizado": "19 nov 2026, 05:35 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-11-19",
+   "fechaLabel": "19 NOV 2026",
+   "notas": [
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Anthropic levanta US$81,300 millones en la mayor salida a bolsa de la historia",
+     "titularCorto": "Anthropic, récord de salida a bolsa",
+     "bajada": "Fijó el precio en US$83 por acción, arriba de su rango, y hoy debuta en Nasdaq como \"ANT\". Es la prueba de fuego de si el mercado sigue creyendo en la IA.",
+     "dato": {
+      "cifra": "US$81,300M",
+      "contexto": "recaudados en la oferta; supera los US$75,000 millones de SpaceX"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Minutas de la Fed: casi todos prevén más alzas y les preocupa la deuda de la IA",
+     "titularCorto": "La Fed anticipa más alzas de tasas",
+     "bajada": "En octubre mantuvo su tasa en 3.75%–4%, pero \"casi todos\" ven probable subirla y ven la demanda por IA como riesgo de inflación. Tasas más altas en EU presionan al peso y encarecen el crédito en México.",
+     "dato": {
+      "cifra": "3.75%–4%",
+      "contexto": "tasa de la Fed, mantenida en octubre con votación 10-2"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Vitro se va de la BMV y ofrece pagar 7.37% menos que el precio de mercado",
+     "titularCorto": "Vitro se despide de la BMV",
+     "bajada": "Lanzará una OPA por hasta 19.7 millones de acciones a $4.5853, contra un cierre de $4.95. Otra empresa histórica regiomontana deja una bolsa con pocas emisoras y poca liquidez.",
+     "dato": {
+      "cifra": "-7.37%",
+      "contexto": "descuento de la oferta frente al precio de mercado"
+     },
+     "fuente": "El Cronista México",
+     "url": "https://www.cronista.com/mexico/finanzas-economia/vitro-alista-su-salida-de-la-bmv-y-ofrece-pagar-73-menos-que-el-precio-de-mercado/"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "KIO Data Centers duplicará su capacidad, pero la luz es el cuello de botella",
+     "titularCorto": "KIO duplica sus centros de datos",
+     "bajada": "La mexicana cerrará 2026 con más de 40 MW, más del doble de los 18 MW que construyó en 22 años. Según el Imco, en 2024 solo se ejerció 30.6% del presupuesto de transmisión.",
+     "dato": {
+      "cifra": "40 MW",
+      "contexto": "capacidad al cierre de 2026, contra 18 MW en sus primeros 22 años"
+     },
+     "fuente": "Expansión",
+     "url": "https://expansion.mx/tecnologia/2026/11/18/kio-data-centers-duplica-centros-de-datos"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Peñoles firma 20 años de energía solar con Atlas Renewable Energy",
+     "titularCorto": "Peñoles asegura 20 años de energía solar",
+     "bajada": "El proyecto en Coahuila, de 269 MWp con baterías, entregará cerca de 550 GWh al año desde 2029. Las grandes industrias aseguran su energía porque la red no crece al ritmo del consumo.",
+     "dato": {
+      "cifra": "550 GWh",
+      "contexto": "energía al año que entregará el proyecto a partir de 2029"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/empresas/penoles-firma-acuerdo-energia-renovable-20-anos-atlas-renewable-energy-20261118-844560.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Google lanza Gemini para celulares de 2 GB y alertas de clima con Conagua",
+     "titularCorto": "Gemini llega a celulares de 2 GB",
+     "bajada": "En Google for México presentó una app Gemini para Android de gama de entrada y alertas de inundaciones y huracanes con Conagua. La IA llega a los celulares que tiene la mayoría de los mexicanos.",
+     "dato": {
+      "cifra": "2 GB",
+      "contexto": "de RAM: el mínimo para la nueva versión de la app Gemini"
+     },
+     "fuente": "Expansión",
+     "url": "https://expansion.mx/tecnologia/2026/11/18/google-app-gemini-1mb-para-celulares"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Sheinbaum dice que el acuerdo con Trump va \"muy avanzado\"; se verán en el G20",
+     "titularCorto": "Acuerdo con EU \"muy avanzado\": Sheinbaum",
+     "bajada": "La reunión en Shenzhen duró unos 20 minutos y no hubo acuerdos concretos. Quedaron de verse en el G20 de Mar-a-Lago el 14 y 15 de diciembre, antes de la revisión del T-MEC.",
+     "dato": {
+      "cifra": "20 min",
+      "contexto": "duró el encuentro de Sheinbaum y Trump en Shenzhen"
+     },
+     "fuente": "El Financiero",
+     "url": "https://www.elfinanciero.com.mx/economia/2026/11/19/sheinbaum-asegura-que-las-negociaciones-comerciales-con-trump-van-muy-avanzadas-tras-reunion-en-china/"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Talleres Gráficos de México imprimirá el material electoral por decreto",
+     "titularCorto": "Talleres Gráficos imprimirá lo electoral",
+     "bajada": "Segob anunció un decreto que le da el mandato de producir documentación electoral del INE y los OPLEs. Cambia quién se queda con un mercado que hoy atienden imprentas privadas.",
+     "fuente": "Eje Central",
+     "url": "https://www.ejecentral.com.mx/nuestro-eje/mananera-de-rosa-icela-rodriguez-en-vivo-resumen-de-la-conferencia-matutina-del-miercoles-18-de-noviembre-de-2026"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Palo Alto Networks compra Applied Compute por US$4,500 millones en acciones",
+     "titularCorto": "Palo Alto compra Applied Compute",
+     "bajada": "Applied Compute es una plataforma para entrenar y operar modelos de IA de pesos abiertos con seguridad. El mismo día, Palo Alto reportó ingresos trimestrales de US$3,445 millones, 39% más.",
+     "dato": {
+      "cifra": "US$4,500M",
+      "contexto": "valor de la compra, pagada en acciones"
+     },
+     "fuente": "Palo Alto Networks",
+     "url": "https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-to-acquire-applied-compute--bringing-secure-open-weight-ai-to-the-enterprise"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Isomorphic Labs levanta US$5,000 millones para descubrir fármacos con IA",
+     "titularCorto": "Isomorphic Labs levanta US$5,000 millones",
+     "bajada": "La Serie C de la empresa de Alphabet la encabezan Greenoaks y Sequoia, con a16z, Alphabet, Thrive y el fondo soberano de IA del Reino Unido. No reveló su valuación.",
+     "dato": {
+      "cifra": "US$5,000M",
+      "contexto": "Serie C para descubrir fármacos con IA"
+     },
+     "fuente": "Tech Startups",
+     "url": "https://techstartups.com/2026/11/18/startup-funding-news-today-november-18-2026-isomorphic-labs-genesis-ai-model-ml-science-corporation-vincue-more/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Google lanza Gemini 4 Neon, un modelo de frontera más rápido y barato",
+     "titularCorto": "Google lanza Gemini 4 Neon",
+     "bajada": "Cuesta US$3 por millón de tokens de entrada y US$15 de salida, con 1 millón de tokens de contexto. Según Google, es #3 en el Artificial Analysis Intelligence Index.",
+     "dato": {
+      "cifra": "US$3",
+      "contexto": "por millón de tokens de entrada; US$15 por millón de salida"
+     },
+     "fuente": "Google",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Wall Street cierra mixto y la BMV hila cuatro caídas, arrastrada por mineras",
+     "titularCorto": "La BMV hila cuatro caídas",
+     "bajada": "El S&P/BMV IPC cayó 1.75%, a 69,154.17 puntos, su cuarta baja tras el récord de la semana pasada. En Nueva York, el Dow bajó 1.11% y el Nasdaq subió 0.42%.",
+     "dato": {
+      "cifra": "-1.75%",
+      "contexto": "caída del S&P/BMV IPC, a 69,154.17 puntos"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/mercados/mineras-frenan-impulso-record-bolsas-mexicanas-20261118-844687.html"
+    }
+   ],
+   "radar": []
+  },
   {
    "fecha": "2026-11-18",
    "fechaLabel": "18 NOV 2026",
