@@ -1,6 +1,162 @@
 {
- "actualizado": "19 nov 2026, 05:35 (hora de Mérida)",
+ "actualizado": "20 nov 2026, 05:35 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-11-20",
+   "fechaLabel": "20 NOV 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "El peso rompe los 19 por dólar y la BMV hila cinco caídas",
+     "titularCorto": "El peso rompe los 19 por dólar",
+     "bajada": "El peso cerró en 19.1182 por dólar, una pérdida de 1.45% y su peor cierre desde junio de 2025. Encarece insumos importados y deudas en dólares, mientras el IPC suma −4.57% en cinco jornadas.",
+     "dato": {
+      "cifra": "19.1182",
+      "contexto": "pesos por dólar al cierre del jueves (Banxico)"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-19-noviembre-2026-cuanto-cerro-20261119-844838.html"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "EU activa por 54.ª vez el mecanismo laboral del T-MEC, ahora contra Polygroup",
+     "titularCorto": "T-MEC: caso laboral 54, contra Polygroup",
+     "bajada": "La USTR acusa a Polygroup Industrias México de presuntamente interferir con la actividad sindical en Chihuahua y suspendió la liquidación de aranceles de esa planta. Un conflicto laboral puede frenar exportaciones.",
+     "dato": {
+      "cifra": "54",
+      "contexto": "casos del mecanismo laboral desde que entró en vigor el T-MEC"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/empresas/eu-activa-mecanismo-laboral-respuesta-rapida-t-mec-polygroup-industrias-20261119-844856.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Comprar más del 49% de una tecnológica mexicana requiere aval desde hoy",
+     "titularCorto": "Filtro a compras extranjeras de IA y chips",
+     "bajada": "La reforma a la Ley de Inversión Extranjera exige autorización previa para que un extranjero supere 49% de empresas de IA, chips, ciberseguridad y otros sectores. Cambia la salida de startups mexicanas.",
+     "dato": {
+      "cifra": "49%",
+      "contexto": "del capital: arriba de eso se necesita autorización previa"
+     },
+     "fuente": "El Economista · Expansión",
+     "url": "https://www.eleconomista.com.mx/tecnologia/mexico-publica-controles-compra-empresas-ia-chips-inversionistas-extranjeros-20261119-844767.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "La IA de Google podrá agendar citas en negocios mexicanos con AgendaPro",
+     "titularCorto": "La IA de Google agendará tus citas",
+     "bajada": "AgendaPro se integra con AI Mode de Google para reservar en salones, barberías, spas y clínicas desde una conversación; llega a México en 2027. Para las pymes, la IA se vuelve el nuevo recepcionista.",
+     "dato": {
+      "cifra": "+152%",
+      "contexto": "reservas desde Google en negocios con AgendaPro (oct 2025-oct 2026)"
+     },
+     "fuente": "Xataka México",
+     "url": "https://www.xataka.com.mx/robotica-e-ia/ia-google-podra-reservar-citas-ti-salones-belleza-clinicas-spas-nueva-funcion-que-llega-a-mexico"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Banxico mantendría su tasa en 6.25% por un tiempo prolongado",
+     "titularCorto": "Banxico: 6.25% por un tiempo prolongado",
+     "bajada": "La minuta de la decisión del 5 de noviembre dice que mantener la tasa apoyará la convergencia de la inflación; Borja y Heath votaron por 6.50%. Define el costo del crédito en 2027.",
+     "dato": {
+      "cifra": "6.25%",
+      "contexto": "tasa objetivo tras el recorte del 5 de noviembre"
+     },
+     "fuente": "El Economista · La Jornada",
+     "url": "https://www.eleconomista.com.mx/sectorfinanciero/banxico-considera-mantener-tasa-6-25-prolongado-minuta-20261119-844821.html"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Celulares con terminación 7 deben ligarse a la CURP antes del 30 de noviembre",
+     "titularCorto": "Terminación 7: liga tu línea a la CURP",
+     "bajada": "La CRT recordó que, sin vincularse a la CURP, las líneas se suspenderán en un plazo no mayor a 72 horas. Toca también a las líneas de empresas: una línea suspendida es un canal de venta apagado.",
+     "dato": {
+      "cifra": "30 nov",
+      "contexto": "vence el plazo para las líneas con terminación 7"
+     },
+     "fuente": "El Informador",
+     "url": "https://www.informador.mx/mexico/registro-de-celulares-crt-lanza-importante-aviso-para-numeros-con-terminacion-7-20261119-0141.html"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "California cita a Nvidia por posible desvío de chips a China; AMD cae 7.72%",
+     "titularCorto": "California cita a Nvidia; AMD cae 7.72%",
+     "bajada": "El fiscal Rob Bonta investiga si chips avanzados de Nvidia llegaron a China y si engañó a inversionistas. AMD cayó tras un reporte de un vendedor en corto: el riesgo China ya es legal y de reputación.",
+     "dato": {
+      "cifra": "−22%",
+      "contexto": "Nvidia en nueve sesiones"
+     },
+     "fuente": "CNBC · Fiscalía de California",
+     "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Walmart sube su guía anual, pero el diésel ya le costó US$2,000 millones extra",
+     "titularCorto": "Walmart vende más, pero el diésel pesa",
+     "bajada": "Walmart facturó US$188,840 millones en su 3T fiscal (+5.2%) y subió su previsión, pero su utilidad neta cayó 19.5%. Termómetro del consumidor de EU, el principal mercado de México.",
+     "dato": {
+      "cifra": "−19.5%",
+      "contexto": "utilidad neta del 3T fiscal, a US$4,945 millones"
+     },
+     "fuente": "Reuters · El Economista",
+     "url": "https://www.investing.com/news/stock-market-news/walmart-nudges-up-annual-forecasts-ahead-of-crucial-holiday-season-5038616"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Citi subestimó en US$35,000 millones sus activos de riesgo, según Reuters",
+     "titularCorto": "Citi registró mal US$35,000 millones",
+     "bajada": "Según fuentes de Reuters, un error al registrar operaciones en Europa llevó a Citigroup a subestimar sus activos ponderados por riesgo y a inyectar capital a esa filial. Otro tropiezo regulatorio para Jane Fraser.",
+     "dato": {
+      "cifra": "US$35,000M",
+      "contexto": "activos de riesgo subestimados (~2.7% del total)"
+     },
+     "fuente": "Reuters vía Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/exclusivecitiincorrectly-booked-trades-underestimatedrisky-assets-by-35-billion-sources-say-5040342"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Wall Street hila seis caídas pese al debut de Anthropic",
+     "titularCorto": "Seis caídas en Wall Street",
+     "bajada": "Anthropic cerró su debut en US$97.17 (+17%), unos US$1.77 billones, pero el Dow cayó 2.19% por el temor a tasas más altas. El dinero caro pesa más que la emoción por la IA.",
+     "dato": {
+      "cifra": "−1,101",
+      "contexto": "puntos del Dow Jones, a 49,097.06"
+     },
+     "fuente": "Reuters · AP",
+     "url": "https://www.investing.com/news/stock-market-news/anthropic-set-to-soar-in-debut-will-ai-peers-follow-5039533"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Meta reevalúa su meta climática de 2030: sus emisiones subieron 45% por la IA",
+     "titularCorto": "Meta reevalúa su meta climática",
+     "bajada": "Meta dijo que reevalúa su objetivo de cero emisiones netas a 2030 tras subir 45% sus emisiones en 2025. Es la primera big tech que lo pone en duda abiertamente: la energía es el nuevo cuello de botella.",
+     "dato": {
+      "cifra": "+45%",
+      "contexto": "emisiones de Meta en 2025"
+     },
+     "fuente": "Axios",
+     "url": "https://www.axios.com/2026/11/19/meta-ai-emissions-rise"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Petróleo estable; la AIE calcula pérdidas de 2,800 millones de barriles",
+     "titularCorto": "Petróleo estable; Ormuz sigue en vilo",
+     "bajada": "El Brent cerró en US$91.98 y el WTI en US$83.21, su nivel más bajo desde el 26 de agosto. El crudo mueve gasolinas, fletes y la factura energética de México y de Pemex.",
+     "dato": {
+      "cifra": "US$91.98",
+      "contexto": "por barril de Brent al cierre"
+     },
+     "fuente": "Reuters vía Investing.com",
+     "url": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "AHMSA: plan para reactivarla por etapas",
+     "detalle": "Cargill Financial y Grupo Afirme preparan un plan de negocios; todavía sin oferta formal."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-19",
    "fechaLabel": "19 NOV 2026",
