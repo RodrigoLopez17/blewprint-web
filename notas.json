@@ -1,6 +1,162 @@
 {
- "actualizado": "20 nov 2026, 05:35 (hora de Mérida)",
+ "actualizado": "21 nov 2026, 05:38 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-11-21",
+   "fechaLabel": "21 NOV 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "El peso tiene su peor semana desde 2024 por la venta de IA en Wall Street",
+     "titularCorto": "Peso: su peor semana desde agosto de 2024",
+     "bajada": "El peso cerró en 19.1631 por dólar y perdió 3.39% en la semana, según Reuters y Banxico, y la BMV sumó seis caídas seguidas. Banco Base estima que la presión cambiaria podría subir la inflación 0.61 puntos en 12 meses.",
+     "dato": {
+      "cifra": "19.16",
+      "contexto": "pesos por dólar: el nivel más débil desde junio de 2025"
+     },
+     "fuente": "La Jornada/Reuters",
+     "url": "https://www.jornada.com.mx/noticia/2026/11/20/economia/peso-mexicano-y-bmv-retroceden-ante-desplome-de-acciones-de-ia-en-wall-street"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Pemex registra déficit comercial récord de US$4,835 millones a septiembre",
+     "titularCorto": "Pemex: déficit comercial récord",
+     "bajada": "La balanza de Pemex de enero a septiembre quedó 3.7 veces más negativa que en 2025, la peor desde al menos 2016. Las importaciones subieron 25% y las exportaciones solo 0.8%, con la gasolina importada 29% más cara.",
+     "dato": {
+      "cifra": "US$4,835M",
+      "contexto": "déficit comercial de Pemex de enero a septiembre de 2026"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/empresas/pemex-deficit-comercial-record-enero-septiembre-20261120-844945.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Falla en Telcel deja sin señal a usuarios de la CDMX y la zona conurbada",
+     "titularCorto": "Telcel se cae en la CDMX",
+     "bajada": "Downdetector registró más de 3 mil reportes el viernes y Telcel lo atribuyó a trabajos de incremento de capacidad. Con cerca del 60% del mercado móvil, una falla así frena pagos, ventas por WhatsApp y autenticación.",
+     "dato": {
+      "cifra": "3 mil",
+      "contexto": "reportes de falla en Downdetector el viernes 20"
+     },
+     "fuente": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com/latinoamerica/mexico/telcel-de-carlos-slim-admite-falla-en-la-red-telefonica-tras-quejas-de-usuarios-en-mexico/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Trump amenaza a centros de datos fuera de EE.UU.; Querétaro, en la mira",
+     "titularCorto": "Trump amenaza a centros de datos foráneos",
+     "bajada": "Trump dijo que las empresas de EE.UU. tendrán prohibido construir centros de datos en otros países o pagarán un \"tremendous tax\", aunque aún no hay tasa ni norma. Querétaro, principal polo del país, queda en la mira.",
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Hacienda quita el estímulo del IEPS a la Magna y recorta el del diésel",
+     "titularCorto": "Magna, sin estímulo de IEPS",
+     "bajada": "Del 21 al 27 de noviembre, la Magna paga la cuota completa de IEPS, $6.70 por litro, y el diésel pasa a pagar $0.80 por litro. Si el petróleo rebota o el peso sigue débil, ya no hay colchón fiscal para frenar el precio.",
+     "dato": {
+      "cifra": "$6.70",
+      "contexto": "IEPS por litro de Magna, ya sin estímulo"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/economia/shcp-retira-estimulo-fiscal-gasolina-magna-baja-subsidio-diesel-20261120-845100.html"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Sector obrero pide alza de 15% al salario mínimo 2027 y eliminar el MIR",
+     "titularCorto": "Obreros piden +15% al mínimo 2027",
+     "bajada": "Los doce grupos obreros de la Conasami entregaron su propuesta: 15% a los mínimos generales y profesionales y eliminar el Monto Independiente de Recuperación. El resultado definirá el costo de la nómina 2027 de pymes y despachos.",
+     "dato": {
+      "cifra": "15%",
+      "contexto": "aumento que propone el sector obrero para 2027"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/capital-humano/sector-obrero-exige-alza-15-salario-minimo-2027-pide-eliminar-mir-20261120-845091.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "El Nasdaq cae 5.28% y borra lo ganado en 2026 en un viernes negro de la IA",
+     "titularCorto": "El Nasdaq se hunde 5.28% por la IA",
+     "bajada": "El Nasdaq cerró en 22,617.73 y ya va -2.7% en el año; el S&P 500 y el Dow entraron en corrección. El mercado ajusta el precio de la IA por menos construcción de centros de datos, menos financiamiento y una posible alza de la Fed.",
+     "dato": {
+      "cifra": "-5.28%",
+      "contexto": "caída del Nasdaq el viernes; ya va -2.7% en 2026"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Nvidia se hunde 14% tras reporte de que la SEC revisa su contabilidad",
+     "titularCorto": "Nvidia cae 14%: la SEC revisa sus cuentas",
+     "bajada": "Reuters informó que el personal de la SEC revisa posibles problemas contables en Nvidia, incluido cómo reporta sus ingresos por región. La acción cerró en unos US$125.53; la SEC no comentó y una investigación no implica culpa.",
+     "dato": {
+      "cifra": "-14.01%",
+      "contexto": "caída de la acción de Nvidia el viernes 20"
+     },
+     "fuente": "Reuters",
+     "url": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "TSMC frena pedidos de diseñadores chinos de chips avanzados por reglas de EE.UU.",
+     "titularCorto": "TSMC frena chips avanzados para China",
+     "bajada": "Con las nuevas reglas de Comercio de EE.UU., TSMC suspendió pedidos de diseñadores chinos afectados en procesos de 16 nm o menos sin licencia de exportación. Cierra una de las últimas rutas de China para fabricar chips de IA potentes.",
+     "dato": {
+      "cifra": "16 nm",
+      "contexto": "o menos: procesos suspendidos sin licencia de exportación"
+     },
+     "fuente": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say-5038806"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Corea del Sur supera por primera vez US$1 billón en exportaciones por chips",
+     "titularCorto": "Corea exporta más de US$1 billón",
+     "bajada": "El 19 de noviembre, las exportaciones acumuladas de Corea del Sur pasaron US$1 billón; es el cuarto país en lograrlo. Los semiconductores casi se triplicaron a US$397,000 millones, 43% del total, gracias a los chips de IA.",
+     "dato": {
+      "cifra": "US$1B",
+      "contexto": "en exportaciones acumuladas; cuarto país en lograrlo"
+     },
+     "fuente": "Yonhap",
+     "url": "https://en.yna.co.kr/view/AEN20261119003951320"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "SpaceX coloca unos US$32,000 millones en deuda para comprar chips de IA",
+     "titularCorto": "SpaceX: US$32,000 millones en deuda para IA",
+     "bajada": "SpaceX cerró una emisión de unos US$32,000 millones en deuda, diseñada para quedar fuera de su balance, y la mayor parte pagó rendimientos superiores a 8%. El mercado sigue financiando la IA, pero ya cobra caro el riesgo.",
+     "dato": {
+      "cifra": "US$32,000M",
+      "contexto": "emisión de deuda para financiar chips de IA"
+     },
+     "fuente": "Bloomberg Law",
+     "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-wraps-up-32-billion-of-ai-chip-debt-at-yields-topping-8"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Bitcoin pierde los US$60,000 por primera vez desde julio",
+     "titularCorto": "Bitcoin cae debajo de US$60,000",
+     "bajada": "Bitcoin tocó US$58,811 el viernes, cayó 13.8% en la semana y casi 30% en el mes. Los ETF al contado en EE.UU. tuvieron salidas netas por US$582.3 millones el jueves, y las cripto ya se mueven al ritmo de la IA y las tasas.",
+     "dato": {
+      "cifra": "US$58,811",
+      "contexto": "mínimo que tocó bitcoin el viernes 20"
+     },
+     "fuente": "Cointelegraph",
+     "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Peñoles, el más castigado de la BMV",
+     "detalle": "Cayó 15.69% en la semana; Grupo México bajó 12.36% y Cemex 8.6%."
+    },
+    {
+     "titular": "Polymarket ve alza de la Fed",
+     "detalle": "Descuenta 94% de probabilidad de que la Fed suba tasas el 9 de diciembre."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-20",
    "fechaLabel": "20 NOV 2026",
