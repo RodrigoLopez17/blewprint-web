@@ -1,6 +1,166 @@
 {
- "actualizado": "21 nov 2026, 05:38 (hora de Mérida)",
+ "actualizado": "22 nov 2026, 05:36 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-11-22",
+   "fechaLabel": "22 NOV 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "Tomás Milmo lanza una OPA para quedarse con hasta el 100% de Axtel",
+     "titularCorto": "Milmo va por el 100% de Axtel",
+     "bajada": "4 Tech Plus, ligada a Tomás Milmo Santos, ofrece $3.86 por CPO en efectivo, con aceptación del 20 de noviembre al 17 de diciembre. Tras Vitro, otra emisora podría salir de la BMV.",
+     "dato": {
+      "cifra": "$3.86",
+      "contexto": "precio por CPO de la oferta, pagadero en efectivo y en pesos"
+     },
+     "fuente": "El Financiero",
+     "url": "https://www.elfinanciero.com.mx/empresas/2026/11/20/lanzan-oferta-publica-para-adquirir-axtel-quien-compraria-el-100-de-las-acciones-de-la-telefonica/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Las aerolíneas mexicanas recortan personal por primera vez desde la pandemia",
+     "titularCorto": "Aerolíneas recortan personal",
+     "bajada": "El personal del transporte aéreo regular bajó 0.2% en agosto y 0.4% en julio, según el Inegi. Turbosina cara, motores en revisión y la posible fusión Viva-Volaris presionan al sector.",
+     "dato": {
+      "cifra": "-0.2%",
+      "contexto": "personal del transporte aéreo regular en agosto (Inegi)"
+     },
+     "fuente": "El Universal, vía Carta de México",
+     "url": "https://www.cartademexico.com/nota/aerolineas-despiden-a-personal-costo-de-la-turbosina-y-posible-fusion-viva-volaris-entre-las-causas"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Walmart prueba en El Buen Fin a Sparky, su asistente de compras con IA",
+     "titularCorto": "Walmart estrena su IA en El Buen Fin",
+     "bajada": "Las plataformas de Walmart, Bodega Aurrera y Sam's Club recibieron 208 millones de visitas en 14 días. El comercio en línea pasa de buscar productos a pedirle a una IA qué comprar.",
+     "dato": {
+      "cifra": "208M",
+      "contexto": "visitas a sus plataformas en los 14 días de El Fin Irresistible"
+     },
+     "fuente": "Expansión",
+     "url": "https://expansion.mx/empresas/2026/11/21/walmart-inteligencia-artificial-ventas-fin-irresistible"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Profepa revisa los datos de SpaceX sobre restos de Starship en Playa Bagdad",
+     "titularCorto": "Profepa revisa restos de Starship",
+     "bajada": "Profepa recuperó 5.9 kg de residuos en Playa Bagdad, Matamoros, a unos 20 km de la plataforma de SpaceX. Es una prueba de cuánto puede exigir México a una tecnológica extranjera.",
+     "dato": {
+      "cifra": "5.9 kg",
+      "contexto": "residuos recuperados por Profepa en Playa Bagdad"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/politica/profepa-analiza-datos-spacex-confirmar-desechos-playa-tamaulipas-son-cohete-20261120-845079.html"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Capturan al \"Chapo Isidro\" en Guasave; bloqueos frenan el norte de Sinaloa",
+     "titularCorto": "Capturan al \"Chapo Isidro\"",
+     "bajada": "Fuerzas federales detuvieron a Fausto Isidro Meza Flores, uno de los diez más buscados del FBI. Los bloqueos golpearon la logística y el transporte; el sábado ya había 90% de vialidades liberadas.",
+     "dato": {
+      "cifra": "90%",
+      "contexto": "vialidades liberadas el sábado por la tarde, según el gobierno estatal"
+     },
+     "fuente": "Expansión Política",
+     "url": "https://politica.expansion.mx/estados/2026/11/21/vialidades-sinaloa-reabiertas-narcobloqueos-chapo-isidro"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Vence el plazo para que Hacienda defina dónde se pagará solo en digital",
+     "titularCorto": "Hacienda define el pago solo digital",
+     "bajada": "La Ley de Economía Digital da a la SHCP 15 días hábiles para fijar los sectores; el plazo vence el 26 o 27 de noviembre. Sheinbaum quiere gasolineras sin efectivo; aún no hay lista oficial.",
+     "dato": {
+      "cifra": "15 días",
+      "contexto": "hábiles para que la SHCP defina los sectores de pago digital"
+     },
+     "fuente": "Contraste",
+     "url": "https://contrastenoticias.com.mx/articulo/rige-la-ley-de-economia-digital-hacienda-tiene-15-dias-habiles-para-decir-donde"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Una IA ayuda a demostrar la hipótesis de Riemann y los matemáticos la validan",
+     "titularCorto": "Una IA ayuda a demostrar Riemann",
+     "bajada": "Levent Alpöge, matemático de Anthropic, usó Claude para demostrar el problema planteado en 1859; la prueba en Lean fue certificada por Lean y Mathlib. No se aceptó por la IA: se verificó paso a paso.",
+     "dato": {
+      "cifra": "1859",
+      "contexto": "año en que se planteó la hipótesis de Riemann"
+     },
+     "fuente": "Scientific American",
+     "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Los mercados cierran su peor semana desde 2020: el Dow cae 8%",
+     "titularCorto": "La peor semana desde 2020",
+     "bajada": "El Dow cayó 8%, el S&P 500 8.6% y el Nasdaq cerca de 10%; Taiwán perdió 17.5% y bitcoin rompió los US$57,000. La venta ya alcanza a todo el comercio de la IA y presiona a emergentes como México.",
+     "dato": {
+      "cifra": "-17.5%",
+      "contexto": "caída semanal del índice de Taiwán, la peor desde 1990"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "CrowdStrike negocia comprar a su rival Zscaler, según Reuters",
+     "titularCorto": "CrowdStrike negocia por Zscaler",
+     "bajada": "Dos fuentes de Reuters dicen que CrowdStrike está en pláticas para adquirir Zscaler, valuada en unos US$33,500 millones; no hay acuerdo garantizado. Zscaler subió 17% tras el cierre del viernes.",
+     "dato": {
+      "cifra": "+17%",
+      "contexto": "alza de Zscaler después del cierre del viernes"
+     },
+     "fuente": "Reuters, vía Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Amazon, cerca de comprar la startup de IA Decart por US$7,500 millones",
+     "titularCorto": "Amazon, cerca de comprar Decart",
+     "bajada": "Según el FT, Amazon está en etapa avanzada para adquirir Decart, que hace que los modelos de IA corran mejor en distintos chips. Ninguna empresa lo ha confirmado; AWS busca depender menos de Nvidia.",
+     "dato": {
+      "cifra": "US$7.5B",
+      "contexto": "valor reportado de la posible compra (FT)"
+     },
+     "fuente": "Mint (con base en FT)",
+     "url": "https://www.livemint.com/companies/news/amazon-eyes-7-5-billion-decart-deal-to-boost-ai-chip-efficiency-challenge-nvidia-5-things-to-know-11795310250674.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Intuit vende Mailchimp a Bending Spoons por US$3,680 millones",
+     "titularCorto": "Mailchimp pasa a Bending Spoons",
+     "bajada": "Bending Spoons, dueña de Evernote, Vimeo y WeTransfer, pagará todo en efectivo; el cierre se espera a inicios de 2027. El software maduro vale menos en la era de la IA, y muchas pymes usan Mailchimp.",
+     "dato": {
+      "cifra": "US$3,680M",
+      "contexto": "valor empresa de la compra, todo en efectivo"
+     },
+     "fuente": "Bending Spoons (comunicado)",
+     "url": "https://investors.bendingspoons.com/newsroom/bending-spoons-to-acquire-mailchimp"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Bessent: el H200 sigue como tope para China; Trump quiere de vuelta a Huang",
+     "titularCorto": "El H200 sigue como tope para China",
+     "bajada": "El secretario del Tesoro dijo a CNBC que no espera cambios en la política de chips. Trump quiere darle a Jensen Huang una segunda oportunidad como CEO, pero el consejo de Nvidia ya dijo que no lo reinstalará.",
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Samsung y SK Hynix caen 7%",
+     "detalle": "Los gigantes coreanos de memoria cayeron el viernes en plena venta de chips asiáticos."
+    },
+    {
+     "titular": "Bitcoin, en su nivel más bajo desde 2024",
+     "detalle": "Rompió los US$57,000 y acumula -28% en el trimestre."
+    },
+    {
+     "titular": "Trump y Xi, de acuerdo sobre IA militar",
+     "detalle": "Bessent dijo que acordaron que la IA no decida sola en acciones militares mayores."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-21",
    "fechaLabel": "21 NOV 2026",
