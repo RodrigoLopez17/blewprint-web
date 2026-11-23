@@ -1,6 +1,166 @@
 {
- "actualizado": "22 nov 2026, 05:36 (hora de Mérida)",
+ "actualizado": "23 nov 2026, 05:36 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-11-23",
+   "fechaLabel": "23 NOV 2026",
+   "notas": [
+    {
+     "kicker": "Administración · México",
+     "titular": "Trabajadores piden 15% al salario mínimo 2027 y eliminar el MIR",
+     "titularCorto": "Salario mínimo 2027: piden 15% y sin MIR",
+     "bajada": "El sector obrero pidió un aumento directo de 15% y quitar el Monto Independiente de Recuperación; la Conasami entra en sesión permanente el 26 de noviembre. Define el costo de nómina de 2027 para todas las pymes.",
+     "dato": {
+      "cifra": "168%",
+      "contexto": "alza real del mínimo de dic. 2016 a mayo 2026, según el sector obrero"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/empresas/arranca-negociacion-salarial-2027-conasami-choque-eliminacion-mir-peticion-obrera-20261122-845170.html"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Pilgrim's confirma su inversión de US$1,300 millones con foco en Yucatán",
+     "titularCorto": "Pilgrim's sigue con US$1,300 millones",
+     "bajada": "La avícola dijo que sus inversiones en el sur y la Península siguen conforme a lo previsto; Yucatán recibirá $690 millones de pesos y unos 500 empleos. El freno al pollo de Brasil abre espacio a la producción local.",
+     "dato": {
+      "cifra": "US$1,300M",
+      "contexto": "inversión al 2030 para producir 373,000 toneladas más al año"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/empresas/pilgrim-s-confirma-inversion-mexico-ve-oportunidad-restricciones-pollo-brasil-20261122-845197.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Telmex insiste en que \"ya no es negocio\"; el STRM acusa intento de desmantelarla",
+     "titularCorto": "Telmex \"ya no es negocio\", dice su dueño",
+     "bajada": "El sindicato sostiene que es un argumento para retirar los servicios más rentables y quitar materia de trabajo, y dice que Telmex podría recuperarse hacia 2030. Está en juego el mapa del internet fijo y del empleo sindical.",
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/empresas/telmex-insiste-empresa-negocio-strm-refuta-acusa-intento-desmantelamiento-20261119-844884.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Bait le gana a Telcel en portabilidad por tercera vez desde 2008",
+     "titularCorto": "Bait vuelve a ganarle a Telcel",
+     "bajada": "En el tercer trimestre Bait sumó 369,080 líneas netas y Telcel 257,704, según The CIU; la portabilidad cayó 21% por el registro de líneas. Un operador sin red propia le quita clientes al dominante.",
+     "dato": {
+      "cifra": "369,080",
+      "contexto": "líneas que ganó Bait por portabilidad en el tercer trimestre"
+     },
+     "fuente": "Mobile Time",
+     "url": "https://mobiletime.la/noticias/17/11/2026/portabilidad-movil-en-mexico-2/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "México firma memorandos con China y Trump dice que está cerca un acuerdo",
+     "titularCorto": "APEC: memorandos con China, guiño de Trump",
+     "bajada": "México y China acordaron memorandos en seis áreas, sin tratado de libre comercio. Trump dijo que está a punto de cerrar un acuerdo con México, pero insistió en el superávit y en los cárteles.",
+     "dato": {
+      "cifra": "6",
+      "contexto": "áreas con memorandos de entendimiento entre México y China"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/economia/apec-2026-claudia-sheinbaum-principales-acuerdos-dejo-viaje-china-20261122-845195.html"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Solo 15% de la meta eléctrica de 32,000 MW tiene permiso para construir",
+     "titularCorto": "Plan eléctrico, atorado en permisos",
+     "bajada": "La CNE tiene 52 permisos de plantas en construcción con 4,816 MW; 88 de los 140 proyectos que Sener prevé aún no tienen autorización. Sin electricidad no hay nearshoring ni centros de datos.",
+     "dato": {
+      "cifra": "4,816 MW",
+      "contexto": "capacidad con permiso de construcción, de una meta de 32,000 MW"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/empresas/hay-retraso-permisos-nuevas-plantas-electricas-20261122-845268.html"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Es oficial: CrowdStrike compra Zscaler por US$43,900 millones",
+     "titularCorto": "CrowdStrike compra Zscaler",
+     "bajada": "El acuerdo definitivo es en acciones, con una prima de 34%, y la empresa combinada arrancaría con más de US$10,000 millones de ingreso recurrente anual. Nace uno de los mayores jugadores puros de ciberseguridad.",
+     "dato": {
+      "cifra": "US$43,900M",
+      "contexto": "valor empresa aproximado de la compra, pagada en acciones"
+     },
+     "fuente": "CrowdStrike / CNBC",
+     "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Futuros rebotan y Asia sale a sostener sus bolsas tras la peor semana",
+     "titularCorto": "Rebote del lunes y rescate en Asia",
+     "bajada": "Los futuros del Nasdaq subían 2.75% el domingo por la noche, mientras Corea, Taiwán y China lanzaron medidas para frenar la caída. Cuando los gobiernos sostienen los mercados, el miedo ya es sistémico.",
+     "dato": {
+      "cifra": "+2.75%",
+      "contexto": "futuros del Nasdaq el domingo por la noche (Fortune)"
+     },
+     "fuente": "Fortune / CNBC",
+     "url": "https://fortune.com/2026/11/22/stock-market-today-dow-futures-sp500-nasdaq-correction-ai-bust/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Oracle asegura tener todo el financiamiento para su contrato con OpenAI",
+     "titularCorto": "Oracle: \"tenemos todo el dinero\"",
+     "bajada": "Tras una última captación de US$20,000 millones, Oracle dijo que su campus de Abilene está casi terminado. Es el termómetro de si la deuda de la IA aguanta.",
+     "dato": {
+      "cifra": "US$20,000M",
+      "contexto": "última captación: mitad acciones y mitad deuda"
+     },
+     "fuente": "Oracle / Reuters",
+     "url": "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "SpaceX coloca US$32,000 millones en bonos para comprar chips de Nvidia",
+     "titularCorto": "SpaceX: bonos para chips de Nvidia",
+     "bajada": "La deuda queda fuera de su balance vía Saturn Funding Trust y el tramo principal pagó 8.259%. Que los inversionistas exijan más de 8% muestra el riesgo que ven en el gasto de IA.",
+     "dato": {
+      "cifra": "8.259%",
+      "contexto": "tasa del tramo principal, contra 5.95% de un bono promedio"
+     },
+     "fuente": "Bloomberg",
+     "url": "https://finance.yahoo.com/technology/ai/articles/spacex-sells-32-billion-ai-234112045.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Un error de US$35,000 millones en Citi podría retrasar su salida de sanciones",
+     "titularCorto": "El error de US$35,000 millones de Citi",
+     "bajada": "Su unidad en Reino Unido usó un modelo de riesgo no aprobado y subestimó sus activos ponderados por riesgo. Analistas creen que puede complicar el fin de las órdenes que arrastra desde 2020.",
+     "dato": {
+      "cifra": "US$35,000M",
+      "contexto": "activos ponderados por riesgo subestimados en su unidad británica"
+     },
+     "fuente": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/analysiscitis-35billion-uk-error-could-complicate-exit-from-us-regulatory-penalty-box-5044404"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "MBK Partners compra Wacom con una prima de 49.9%",
+     "titularCorto": "MBK va por Wacom",
+     "bajada": "El fondo coreano ofrece 1,030 yenes por acción, unos 136,600 millones de yenes, y busca sacar a Wacom de la bolsa de Tokio en junio de 2027. El capital privado aprovecha valuaciones castigadas.",
+     "dato": {
+      "cifra": "49.9%",
+      "contexto": "prima sobre el cierre del 19 de noviembre (687 yenes)"
+     },
+     "fuente": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/news/2026/11/22/mbk-to-buy-japans-wacom-for-9-billion-as-samsung-stays-on"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Taiex rebota 2.16%",
+     "detalle": "Cerró en 36,811.89 tras el mensaje de Trump sobre Jensen Huang y Nvidia."
+    },
+    {
+     "titular": "Kospi, 46% debajo de su máximo",
+     "detalle": "El índice coreano caía más de 3% el lunes pese al fondo de estabilización."
+    },
+    {
+     "titular": "Wall Street, semana corta",
+     "detalle": "El jueves cierra por Thanksgiving, con poco volumen esperado."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-22",
    "fechaLabel": "22 NOV 2026",
