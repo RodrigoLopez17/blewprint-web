@@ -1,6 +1,174 @@
 {
- "actualizado": "23 nov 2026, 05:36 (hora de Mérida)",
+ "actualizado": "24 nov 2026, 05:36 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-11-24",
+   "fechaLabel": "24 NOV 2026",
+   "notas": [
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Nvidia restituye a Jensen Huang y su acción sube 31.5% en un día",
+     "titularCorto": "Huang vuelve a Nvidia; acción +31.5%",
+     "bajada": "El consejo lo restituyó por unanimidad menos de dos semanas después de su renuncia, tras recibir opinión de \"altos niveles\" del gobierno de EE.UU. La acción sumó cerca de US$950,000 millones en valor.",
+     "dato": {
+      "cifra": "+31.5%",
+      "contexto": "alza de la acción de Nvidia el lunes"
+     },
+     "fuente": "Reuters",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Una de cada cuatro empresas ya paró operaciones en algún estado por inseguridad",
+     "titularCorto": "25% de empresas paró en algún estado",
+     "bajada": "El sondeo de AmCham México a 204 empresas encontró que 25% suspendió operaciones en alguna entidad y 17% redujo inversiones. Los bloqueos ya afectan a 55%, contra 29% en 2024.",
+     "dato": {
+      "cifra": "25%",
+      "contexto": "de las empresas suspendió operaciones en alguna entidad"
+     },
+     "fuente": "Expansión",
+     "url": "https://expansion.mx/economia/2026/11/23/empresas-seguridad-mexico-cinco-anos-amcham"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Wall Street tiene su mejor día desde abril de 2025 y hoy amanece a la baja",
+     "titularCorto": "Nasdaq +6.5%; hoy futuros a la baja",
+     "bajada": "El Nasdaq subió 6.5% y el S&P 500 4.7% el lunes, su mejor sesión desde el 9 de abril de 2025. Esta mañana los futuros del Nasdaq-100 caen 1.61% y el mercado da por hecha una subida de la Fed.",
+     "dato": {
+      "cifra": "+6.5%",
+      "contexto": "alza del Nasdaq el lunes"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Inegi confirma que México creció 3.3% anual; la industria se revisó a la baja",
+     "titularCorto": "PIB crece 3.3%; la industria se frena",
+     "bajada": "El PIB del tercer trimestre avanzó 0.9% trimestral y 3.3% anual, pero la industria se revisó de 0.8% a 0.4%. En una encuesta de HSBC, 45% de las empresas dice que los aranceles de EE.UU. son su principal costo.",
+     "dato": {
+      "cifra": "3.3%",
+      "contexto": "crecimiento anual del PIB en el tercer trimestre"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/economia/pib-mexico-crecio-3-3-anual-tercer-trimestre-inegi-20261123-845306.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Banamex invierte hasta US$500 millones en IA y prevé su OPI en 2027",
+     "titularCorto": "Banamex apuesta hasta US$500M por IA",
+     "bajada": "Fernando Chico Pardo dijo que el banco invierte entre US$400 y US$500 millones en una plataforma basada en IA. La oferta pública de la participación de Citi sería en el primer semestre de 2027.",
+     "dato": {
+      "cifra": "97%",
+      "contexto": "de las transacciones ocurre fuera de sucursal"
+     },
+     "fuente": "El Soberano",
+     "url": "https://elsoberano.mx/2026/11/23/banamex-apuesta-por-mexico-ante-la-reconfiguracion-comercial-de-america-del-norte/"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Sanofi compra Insmed por US$41,000 millones, la mayor del sector desde 2023",
+     "titularCorto": "Sanofi compra Insmed por US$41,000M",
+     "bajada": "Sanofi pagará US$175 por acción en efectivo y se lleva dos medicamentos respiratorios ya en venta. Es la primera gran jugada de Belén Garijo como CEO ante el vencimiento de patentes.",
+     "dato": {
+      "cifra": "US$41B",
+      "contexto": "valor total de la compra de Insmed"
+     },
+     "fuente": "Sanofi",
+     "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-11-24-06-30-00-3409002"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "EE.UU. pone en su lista negra a Megaspeed y a la filial de Alibaba en Singapur",
+     "titularCorto": "EE.UU. veta a Megaspeed y Alibaba Singapur",
+     "bajada": "Comercio agregó a siete empresas del sudeste asiático a su Entity List por riesgo de desviar chips avanzados. Megaspeed importó unos US$787 millones en chips de Nvidia, según Bloomberg; Alibaba niega las acusaciones.",
+     "dato": {
+      "cifra": "US$787M",
+      "contexto": "en chips de Nvidia importados por Megaspeed (Bloomberg)"
+     },
+     "fuente": "Politico",
+     "url": "https://www.politico.com/news/2026/11/23/us-prepares-to-blacklist-megaspeed-as-huang-returns-to-nvidia-01180920"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "México y China crean un grupo de trabajo para elevar exportaciones mexicanas",
+     "titularCorto": "México y China: grupo para exportar más",
+     "bajada": "Ebrard y el ministro Wang Wentao acordaron el grupo bilateral. China prevé vender a México más de US$130,000 millones este año, contra unos US$10,000 millones que México le vende.",
+     "dato": {
+      "cifra": "US$130B",
+      "contexto": "ventas previstas de China a México este año"
+     },
+     "fuente": "Infobae (con Reuters)",
+     "url": "https://www.infobae.com/mexico/2026/11/23/mexico-y-china-acuerdan-grupo-de-trabajo-para-elevar-exportaciones/"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Pemex llama \"labor social\" a su pérdida; gaseros alertan por precios máximos",
+     "titularCorto": "Pemex defiende pérdida; alerta en gas LP",
+     "bajada": "Pemex perdió $10,795 millones de pesos en el tercer trimestre por contener precios de gasolina y diésel. Amexgas advierte que los precios máximos del gas LP ponen en riesgo el abasto a más de 20 millones de hogares.",
+     "dato": {
+      "cifra": "10,795 mdp",
+      "contexto": "pérdida neta de Pemex en el tercer trimestre"
+     },
+     "fuente": "Expansión",
+     "url": "https://expansion.mx/empresas/2026/11/23/pemex-defiende-perdidas-labor-social-precio-gasolina-shell"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "La escasez de memoria por la IA hunde 68% la utilidad de Xiaomi",
+     "titularCorto": "Utilidad de Xiaomi cae 68% por memoria",
+     "bajada": "Los ingresos de Xiaomi cayeron 5.2% en el tercer trimestre y su utilidad neta se desplomó 68%. La demanda de memoria para IA encareció componentes y sus envíos bajaron casi 30%.",
+     "dato": {
+      "cifra": "-68%",
+      "contexto": "caída de la utilidad neta de Xiaomi en el trimestre"
+     },
+     "fuente": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com/negocios/ingresos-de-xiaomi-caen-por-tercer-trimestre-consecutivo-y-su-beneficio-se-desploma-68/"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "La CRT estudia apartar espectro 5G para operadores pequeños y regionales",
+     "titularCorto": "CRT estudia 5G para operadores pequeños",
+     "bajada": "La CRT prepara una clasificación de unas 2,300 empresas en cinco grupos para la futura licitación 5G. Aún no hay bandas ni porcentajes definidos y todo irá a consulta pública.",
+     "dato": {
+      "cifra": "2,300",
+      "contexto": "empresas que la CRT clasificaría en cinco grupos"
+     },
+     "fuente": "NITRO",
+     "url": "https://nitronews.mx/telecomunicaciones/crt-espectro-5g-pequenos-operadores/"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Compass quiere dejar Londres y cotizar principalmente en Nueva York",
+     "titularCorto": "Compass busca cotizar en Nueva York",
+     "bajada": "El mayor proveedor de comedores del mundo consulta a sus accionistas para mover su cotización principal a EE.UU. en 2028. Norteamérica genera 75% de su utilidad operativa subyacente.",
+     "dato": {
+      "cifra": "75%",
+      "contexto": "de su utilidad operativa subyacente viene de Norteamérica"
+     },
+     "fuente": "RTÉ",
+     "url": "https://www.rte.ie/news/business/2026/1124/1600399-compass-to-move-listing-to-us/"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Huang comparecerá ante el Senado",
+     "detalle": "La cita es el 3 de diciembre y la investigación interna de Nvidia sigue."
+    },
+    {
+     "titular": "La BMV corta seis sesiones de pérdidas",
+     "detalle": "El IPC subió 1.06% a 69,355.62 puntos el lunes."
+    },
+    {
+     "titular": "Asia sigue el rebote tecnológico",
+     "detalle": "El Kospi subió 6.32% y el Taiex cerca de 9% el martes."
+    },
+    {
+     "titular": "El PCE sale el miércoles",
+     "detalle": "Es el último dato de inflación antes de la reunión de la Fed de diciembre."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-23",
    "fechaLabel": "23 NOV 2026",
