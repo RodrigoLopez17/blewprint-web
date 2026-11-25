@@ -1,6 +1,170 @@
 {
- "actualizado": "24 nov 2026, 05:36 (hora de Mérida)",
+ "actualizado": "25 nov 2026, 05:38 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-11-25",
+   "fechaLabel": "25 NOV 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "México rompe récord de inversión extranjera, pero 81% es reinversión",
+     "titularCorto": "IED récord: US$43,090 millones",
+     "bajada": "La IED de enero a septiembre sumó US$43,090 millones, máximo histórico y +5.3% anual. Pero 81.2% fue reinversión de utilidades y solo 8.8% inversión nueva: el nearshoring lo sostienen las empresas que ya están aquí.",
+     "dato": {
+      "cifra": "81.2%",
+      "contexto": "de la IED de enero a septiembre fue reinversión de utilidades"
+     },
+     "fuente": "El Financiero",
+     "url": "https://www.elfinanciero.com.mx/economia/2026/11/25/inversion-extranjera-directa-en-mexico-alcanza-record-de-43-mil-millones-de-dolares-de-enero-a-septiembre/"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "El peso toca su peor nivel en 16 meses y la inflación llega a 3.96%",
+     "titularCorto": "Peso en 19.42 e inflación en 3.96%",
+     "bajada": "El peso cerró en 19.4242 por dólar, su quinta caída seguida, y la inflación de la primera quincena de noviembre subió a 3.96%. Frutas, verduras y luz presionan, mientras el mercado descuenta un alza de la Fed en diciembre.",
+     "dato": {
+      "cifra": "19.4242",
+      "contexto": "pesos por dólar al cierre del martes (Banxico)"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-24-noviembre-2026-cuanto-cerro-20261124-845581.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "T1 lanza Uno, un agente de IA gratis para que las pymes vendan y facturen",
+     "titularCorto": "T1 lanza Uno, agente de IA para pymes",
+     "bajada": "La plataforma de Arturo Elías Slim presentó Uno, un asistente que ejecuta más de 250 acciones, además de T1 POS y T1 Finanzas. Solo 1 de cada 20 negocios en México vende por internet, según datos que cita la empresa.",
+     "dato": {
+      "cifra": "250+",
+      "contexto": "acciones que puede ejecutar el asistente Uno"
+     },
+     "fuente": "UnoTV",
+     "url": "https://www.unotv.com/negocios/t1-presenta-nuevas-herramientas-en-su-ecosistema-para-los-negocios-facilita-vender-cobrar-facturar-y-gestionar-inventarios/"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Aplazo dice que su IA aprueba a más de 70% de los nuevos compradores",
+     "titularCorto": "Aplazo: su IA aprueba a más de 70%",
+     "bajada": "La fintech de compra ahora, paga después lanzó un motor de crédito con IA que responde en menos de 200 milisegundos. Cerca de la mitad de sus nuevos solicitantes llega sin historial en buró; las cifras son de la empresa.",
+     "dato": {
+      "cifra": "70%+",
+      "contexto": "de nuevos usuarios aprobados, según la empresa"
+     },
+     "fuente": "Fintechbits",
+     "url": "https://www.fintechbits.net/aplazo-ai-underwriting-mexico"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Sheinbaum va por regular las apuestas en línea y su publicidad en TV",
+     "titularCorto": "Sheinbaum va por regular apuestas en línea",
+     "bajada": "La presidenta retomará una iniciativa de Gobernación, aún no enviada al Congreso, para regular apuestas y casinos digitales y revisar sus anuncios en TV. Según la ENCODAT 2025, 3,967,014 mexicanos apostaron en 2024-2025.",
+     "dato": {
+      "cifra": "6.3%",
+      "contexto": "de quienes apostaron cumplió criterios de juego problemático"
+     },
+     "fuente": "Expansión Política",
+     "url": "https://politica.expansion.mx/presidencia/2026/11/24/gobierno-regulara-apuestas-digitales"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "El Senado aprueba que acreedores puedan retener bienes en juicios mercantiles",
+     "titularCorto": "Senado: retención de bienes en juicios",
+     "bajada": "Con 90 votos, el Senado reformó los artículos 1168 y 1175 del Código de Comercio: el juez podrá ordenar retener bienes y se presumirá el riesgo de deterioro. Da más certeza a quien vende o renta a crédito; pasa a Diputados.",
+     "dato": {
+      "cifra": "90 votos",
+      "contexto": "a favor de la reforma al Código de Comercio en el Senado"
+     },
+     "fuente": "NTCD",
+     "url": "https://ntcd.mx/noticias-senado-reformas-codigo-comercio-retencion-bienes"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Asia se desploma por dudas sobre la IA: el KOSPI de Corea cae 6.16%",
+     "titularCorto": "Asia se desploma; KOSPI -6.16%",
+     "bajada": "El rebote por el regreso de Jensen Huang duró un día: Samsung perdió 9.9% y SK Hynix 11.1%. Pesan las dudas sobre el gasto en IA y posibles aranceles por la investigación de la Sección 301 de EE.UU.",
+     "dato": {
+      "cifra": "-6.16%",
+      "contexto": "caída del KOSPI de Corea este miércoles"
+     },
+     "fuente": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Musk estudia fusionar Tesla y SpaceX en una empresa de US$3.5 billones",
+     "titularCorto": "Tesla y SpaceX estudian fusionarse",
+     "bajada": "Según el Financial Times, ambas formaron comités y contrataron bancos para evaluar una fusión por intercambio de acciones. Musk tiene cerca de 20% del voto de Tesla y 84% del de SpaceX; no hay anuncio oficial.",
+     "dato": {
+      "cifra": "84%",
+      "contexto": "del voto de SpaceX es de Musk; de Tesla, cerca de 20%"
+     },
+     "fuente": "El Economista (con información del FT)",
+     "url": "https://www.eleconomista.com.mx/mercados/estudian-tesla-spacex-fusion-valdria-3-5-billones-dolares-20261124-845642.html"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Dell rompe récord: ingresos de US$54,900 millones, +103%, por la IA",
+     "titularCorto": "Dell: ingresos +103% por la IA",
+     "bajada": "En su tercer trimestre fiscal 2027, los servidores de IA dejaron US$22,000 millones (+291%) y el backlog llegó a un récord de US$132,300 millones. La demanda física de infraestructura de IA sigue acelerando pese al pánico del mercado.",
+     "dato": {
+      "cifra": "+103%",
+      "contexto": "crecimiento de los ingresos de Dell en el trimestre"
+     },
+     "fuente": "Dell Technologies",
+     "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Anthropic ya cotiza debajo de su precio de salida de US$83",
+     "titularCorto": "Anthropic cae debajo de su precio de OPI",
+     "bajada": "La acción cerró el martes con una baja de 6.5%, cinco días después de la mayor OPI de la historia. Había abierto en US$111.50 el 19 de noviembre; Dario y Daniela Amodei vendieron unos US$280 millones cada uno en la oferta.",
+     "dato": {
+      "cifra": "US$83",
+      "contexto": "precio de la OPI de Anthropic"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Amazon paga US$7,500 millones por la tecnología de Decart, según Bloomberg",
+     "titularCorto": "Amazon compra tecnología de Decart",
+     "bajada": "Amazon adquirirá el Decart Optimization Stack y se quedará con los fundadores y el equipo de investigación de la startup israelí. Se prepara para vender sus chips Trainium a clientes externos y competir con Nvidia.",
+     "dato": {
+      "cifra": "US$7,500M",
+      "contexto": "valor de la operación, según Bloomberg"
+     },
+     "fuente": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Europa propone un fondo de €50,000 millones para su IA y cuántica",
+     "titularCorto": "Europa: fondo de €50,000 millones en IA",
+     "bajada": "La Comisión Europea propuso la Ley Cuántica y las bases del Sovereign Tech Equity Fund para tomar participaciones en empresas de IA, cuántica y tecnologías críticas. Falta negociarlo con los Estados miembro y el Parlamento.",
+     "dato": {
+      "cifra": "€50,000M",
+      "contexto": "objetivo del Sovereign Tech Equity Fund"
+     },
+     "fuente": "CNA/Reuters",
+     "url": "https://www.channelnewsasia.com/world/eu-plans-50-billion-euro-investment-in-ai-quantum-computing-6581386"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Hoy sale el PCE de EE.UU.",
+     "detalle": "Es el dato de inflación que más mira la Fed."
+    },
+    {
+     "titular": "Chedraui ve consumo débil en el sureste",
+     "detalle": "La cadena reporta que el consumo está más débil en la región."
+    },
+    {
+     "titular": "Flex fabrica equipo de IA en México",
+     "detalle": "Anunció en abril US$1,000 millones para 2026-2028 para equipo de centros de datos e IA."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-24",
    "fechaLabel": "24 NOV 2026",
