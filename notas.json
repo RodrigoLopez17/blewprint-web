@@ -1,6 +1,174 @@
 {
- "actualizado": "25 nov 2026, 05:38 (hora de Mérida)",
+ "actualizado": "26 nov 2026, 05:36 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-11-26",
+   "fechaLabel": "26 NOV 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "Grandes empresas calculan hasta 17% más en costos por el salario mínimo 2027",
+     "titularCorto": "Salario mínimo 2027: empresas hacen cuentas",
+     "bajada": "La Conasami entra hoy en sesión permanente. Walmart de México y Alsea esperan un alza de 12% y FEMSA de 13%; con la jornada más corta, Alsea calcula cerca de 17% más en costos laborales.",
+     "dato": {
+      "cifra": "17%",
+      "contexto": "alza estimada por Alsea en sus costos laborales en México"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/capital-humano/proxima-alza-salario-minimo-presiona-empresas-consumo-minoristas-alistan-contencion-20261125-845897.html"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "EE.UU. propone aranceles a 14 economías y deja fuera a México, por ahora",
+     "titularCorto": "México se libra de los nuevos aranceles",
+     "bajada": "La USTR dijo que no ha emitido determinaciones sobre México ni Noruega, y Greer afirmó que la revisión sigue. Es un respiro para un país que manda más de 80% de sus exportaciones a EE.UU.",
+     "dato": {
+      "cifra": "80%",
+      "contexto": "de las exportaciones de México van a EE.UU."
+     },
+     "fuente": "El País",
+     "url": "https://elpais.com/mexico/economia/2026-11-25/mexico-conserva-el-trato-preferente-con-estados-unidos-y-se-libra-de-los-nuevos-aranceles-de-trump.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "EE.UU. crece 4.3% y su inflación sube; el peso hila seis caídas",
+     "titularCorto": "EE.UU. crece 4.3%; el peso cae seis días",
+     "bajada": "El PIB del 3T se revisó a 4.3% y el PCE de octubre subió a 3.8%. El mercado descuenta un alza de la Fed en diciembre y el peso cerró en 19.5948, su sexta caída seguida.",
+     "dato": {
+      "cifra": "19.5948",
+      "contexto": "pesos por dólar al cierre, sexta caída seguida"
+     },
+     "fuente": "BEA, Reuters, Forbes México",
+     "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Bait construirá cerca de 100 radiobases para la Red Compartida de Altán",
+     "titularCorto": "Bait levantará ~100 radiobases",
+     "bajada": "El operador móvil virtual de Walmart ganó la primera licitación privada de Altán, con contratos a 10 años. Bait aporta cerca de 80% de los ingresos de Altán, cuya cobertura cayó a 85.8%.",
+     "dato": {
+      "cifra": "~100",
+      "contexto": "radiobases LTE/4G en la banda de 700 MHz"
+     },
+     "fuente": "Expansión",
+     "url": "https://expansion.mx/empresas/2026/11/25/bait-proveedor-altan-construira-radiobases-licitacion"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "México suma 629 mil empleos en un año, pero suben las condiciones críticas",
+     "titularCorto": "629 mil empleos más, peor calidad",
+     "bajada": "La ENOE del 3T reporta 60.2 millones de ocupados y desocupación de 2.9%. La informalidad bajó a 55.0%, pero la tasa de condiciones críticas subió de 37.4% a 38.0%.",
+     "dato": {
+      "cifra": "38.0%",
+      "contexto": "tasa de condiciones críticas de ocupación"
+     },
+     "fuente": "Inegi",
+     "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_11.pdf"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Trump propone aranceles de hasta 35% a Vietnam, 25% a India y 20% extra a China",
+     "titularCorto": "Nuevos aranceles: hasta 35% a Vietnam",
+     "bajada": "La USTR propuso además 15% para la UE, Japón, Corea, Taiwán y Suiza; las audiencias son el 25 de enero de 2027. El Nasdaq llegó a caer más de 4% y cerró en -0.62%.",
+     "dato": {
+      "cifra": "35%",
+      "contexto": "arancel propuesto para Vietnam"
+     },
+     "fuente": "USTR, CNBC",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "La canasta del PACIC cuesta 18.6% más que la meta del gobierno",
+     "titularCorto": "Canasta básica: 18.6% sobre la meta",
+     "bajada": "Sheinbaum anunció que el PACIC se renovará para mantener la canasta en unos $910–911. El monitoreo del GCMA encontró un costo promedio de $1,079.10 en las tres principales ciudades.",
+     "dato": {
+      "cifra": "$1,079.10",
+      "contexto": "costo promedio de la canasta en CDMX, Monterrey y Guadalajara"
+     },
+     "fuente": "Proceso",
+     "url": "https://www.proceso.com.mx/economia/2026/11/25/aun-con-pacic-canasta-basica-rebasa-en-186-la-meta-384358.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Televisa necesitará mucha más inversión para que AT&T México compita con Telcel",
+     "titularCorto": "Televisa y AT&T: falta capital para 5G",
+     "bajada": "América Móvil tiene 53.4% de las líneas y AT&T 15.2%; los operadores virtuales ya suman 18.9%. The CIU advierte que sin capital para espectro y torres, sumar clientes no basta.",
+     "dato": {
+      "cifra": "53.4%",
+      "contexto": "participación de América Móvil en líneas móviles"
+     },
+     "fuente": "El Financiero",
+     "url": "https://www.elfinanciero.com.mx/empresas/2026/11/25/televisa-requerira-fuerte-inversion-en-la-red-5g-para-competir-con-amx/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Se tensa el crédito de la IA: CDS de Oracle, Alphabet y CoreWeave en récord",
+     "titularCorto": "Crédito de la IA bajo presión",
+     "bajada": "Según S&P Global, la probabilidad implícita de impago de CoreWeave a cinco años llegó a 68%. El auge de la IA se financia con deuda y eso puede frenar el gasto en centros de datos.",
+     "dato": {
+      "cifra": "68%",
+      "contexto": "probabilidad implícita de impago de CoreWeave a cinco años"
+     },
+     "fuente": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-on-unease-over-cash-flow-5049729"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "HP eleva ventas 9.3% y da una guía que supera lo esperado",
+     "titularCorto": "HP: ventas +9.3% pese a la memoria cara",
+     "bajada": "HP facturó US$16,000 millones en su cuarto trimestre fiscal y guió una utilidad ajustada de US$3.15 a 3.45 por acción para 2027. La acción llegó a subir 15%.",
+     "dato": {
+      "cifra": "US$16,000M",
+      "contexto": "ingresos del cuarto trimestre fiscal"
+     },
+     "fuente": "HP, Bloomberg",
+     "url": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Reports-Fiscal-2026-Full-Year-and-Fourth-Quarter-Results-Announces-Dividend-Increase/default.aspx"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "La FCC autoriza a SpaceX hasta un millón de satélites de cómputo para IA",
+     "titularCorto": "SpaceX: centros de datos en órbita",
+     "bajada": "La constelación Starmind usará energía solar para cómputo de IA. Amazon, Viasat y la Sociedad Astronómica Estadounidense pidieron negarla; la FCC descartó sus objeciones.",
+     "dato": {
+      "cifra": "1 millón",
+      "contexto": "de satélites autorizados para la constelación Starmind"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Europa y Asia rebotan en Thanksgiving y Corea sube su tasa a 3.25%",
+     "titularCorto": "Corea sube tasas; bolsas rebotan",
+     "bajada": "Con Wall Street cerrado, el DAX subía 2% y el Nikkei ganó 0.86%. El Banco de Corea subió 25 puntos base y elevó su pronóstico de crecimiento a 3.9% en 2026.",
+     "dato": {
+      "cifra": "3.25%",
+      "contexto": "nueva tasa del Banco de Corea"
+     },
+     "fuente": "CNBC, Yonhap",
+     "url": "https://en.yna.co.kr/view/AEN20261126001252320"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Banxico publica hoy su informe trimestral",
+     "detalle": "Ojo con lo que diga sobre inflación, crecimiento y tasas."
+    },
+    {
+     "titular": "Wall Street cierra por Thanksgiving",
+     "detalle": "El viernes opera media sesión."
+    },
+    {
+     "titular": "Telcel compensa por la falla del 20",
+     "detalle": "Da 300 MB en prepago y 500 MB en pospago."
+    },
+    {
+     "titular": "Sener prepara programa de eficiencia",
+     "detalle": "El Programa de Eficiencia Energética se presenta el 2 de diciembre."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-25",
    "fechaLabel": "25 NOV 2026",
