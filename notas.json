@@ -1,6 +1,162 @@
 {
- "actualizado": "26 nov 2026, 05:36 (hora de Mérida)",
+ "actualizado": "27 nov 2026, 05:38 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-11-27",
+   "fechaLabel": "27 NOV 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "Banxico sube a 1.9% su pronóstico de PIB 2026 y el peso hila siete caídas",
+     "titularCorto": "Banxico sube su PIB; el peso cae siete días",
+     "bajada": "Banxico elevó su pronóstico de crecimiento 2026 de 1.5% a 1.9%, mientras el peso cerró en 19.72 por dólar tras siete jornadas de pérdidas. Para quien tiene costos en dólares, diciembre viene volátil.",
+     "dato": {
+      "cifra": "1.9%",
+      "contexto": "pronóstico de crecimiento 2026 de Banxico (antes 1.5%)"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/economia/banxico-eleva-1-9-pronostico-pib-mexico-2026-mantiene-2-20261126-846009.html"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Solo 34% de los empresarios ve buen momento para invertir en México",
+     "titularCorto": "Ánimo para invertir cae a 34%",
+     "bajada": "La encuesta del IPADE marca el punto más bajo desde que lo mide: 6 puntos menos que a inicios de año. Sin inversión nueva, el 1.9% de crecimiento que prevé Banxico difícilmente sube.",
+     "dato": {
+      "cifra": "34%",
+      "contexto": "de los empresarios ve buen momento para invertir (IPADE)"
+     },
+     "fuente": "La Razón",
+     "url": "https://www.razon.com.mx/negocios/2026/11/27/cae-a-su-menor-nivel-animo-empresarial-para-invertir/"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "México, proveedor #1 de cómputo de EE.UU.; Ebrard busca socios en el TIPAT",
+     "titularCorto": "México, proveedor #1 de cómputo de EE.UU.",
+     "bajada": "De enero a julio, México tuvo una participación récord de 36.8% en las importaciones de equipo de cómputo de EE.UU. En Hanói, Ebrard pidió a los países del TIPAT invertir en electrónica en México.",
+     "dato": {
+      "cifra": "36.8%",
+      "contexto": "de las importaciones de cómputo de EE.UU., enero a julio de 2026"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/empresas/ebrard-insta-paises-tipat-invertir-electronica-mexico-20261126-845978.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Plata y Banamex lanzan apps para pymes y pequeños inversionistas",
+     "titularCorto": "Banca digital va por pymes e inversionistas",
+     "bajada": "Banco Plata lanzó Plata Negocios, con facturación y alertas fiscales en la app, y Banamex abrió Inversiones Digitales con fondos de BlackRock. Solo 9.0% de los ~13 millones de clientes de Banamex invierte hoy.",
+     "dato": {
+      "cifra": "9.0%",
+      "contexto": "de los ~13 millones de clientes de Banamex invierte hoy"
+     },
+     "fuente": "latamfintech",
+     "url": "https://www.latamfintech.co/articles/neobanco-plata-lanza-plata-negocios-su-nueva-plataforma-financiera-para-pymes-y-emprendedores-en-mexico"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "CFE evalúa 64 proyectos mixtos con privados que sumarían 8,099 MW",
+     "titularCorto": "CFE: 64 proyectos mixtos por 8,099 MW",
+     "bajada": "La segunda convocatoria de proyectos mixtos de la CFE tiene 64 propuestas preseleccionadas, que aún no están adjudicadas. El fallo se movió a mediados de diciembre o enero de 2027.",
+     "dato": {
+      "cifra": "8,099 MW",
+      "contexto": "sumarían las 64 propuestas preseleccionadas"
+     },
+     "fuente": "Expansión",
+     "url": "https://expansion.mx/empresas/2026/11/26/cfe-segunda-convocatoria-proyectos-mixtos-generacion"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Sheinbaum busca una inversión mixta de Pemex y Petrobras en aguas profundas",
+     "titularCorto": "Pemex y Petrobras hablan de aguas profundas",
+     "bajada": "La presidenta dijo que gente de Petrobras estuvo en México para discutir una alianza. Si se concreta, sería la primera gran prueba del modelo mixto con una petrolera estatal extranjera; aún no hay monto ni fecha.",
+     "fuente": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-busca-inversion-mixta-de-pemex-con-petrobras-en-aguas-profundas-de-mexico/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Nvidia pausa envíos de servidores de IA a cuatro países del sudeste asiático",
+     "titularCorto": "Nvidia frena envíos al sudeste asiático",
+     "bajada": "Según WSJ y FT, Nvidia pidió a Dell y Supermicro detener envíos a Malasia, Singapur, Tailandia e Indonesia mientras revisa una nueva regla de exportación de EE.UU. México no está en la lista; Brasil sí.",
+     "dato": {
+      "cifra": "+72%",
+      "contexto": "facturación de Nvidia vía Singapur en 2025: US$104,000M"
+     },
+     "fuente": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "El gasto en línea en EE.UU. arranca la temporada con récord de US$82,500M",
+     "titularCorto": "Récord de US$82,500M en compras en línea",
+     "bajada": "Adobe Analytics reporta que del 1 al 22 de noviembre el gasto en línea en EE.UU. subió 9.1% anual. El tráfico a tiendas desde asistentes de IA creció 127% y el móvil ya es 53% del gasto.",
+     "dato": {
+      "cifra": "+127%",
+      "contexto": "tráfico a tiendas desde asistentes de IA (Adobe)"
+     },
+     "fuente": "Chain Store Age (Adobe)",
+     "url": "https://chainstoreage.com/adobe-online-holiday-spending-record-setting-825b-start"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Utilidades industriales de China suben 20.1% en octubre, impulsadas por la IA",
+     "titularCorto": "China: utilidades industriales +20.1%",
+     "bajada": "Es su ritmo más rápido desde mayo, contra 14.4% en septiembre. China compite con México en electrónica, y una desaceleración del gasto en IA o más aranceles de EE.UU. pegarían a los dos.",
+     "dato": {
+      "cifra": "+20.1%",
+      "contexto": "utilidades de las grandes industrias chinas en octubre"
+     },
+     "fuente": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "La bolsa europea rebota, pero noviembre apunta a cerrar con −1.5%",
+     "titularCorto": "Europa rebota; noviembre cierra en rojo",
+     "bajada": "El STOXX 600 subía 0.9% el viernes y va por +1.81% semanal. El mes lo marcaron la turbulencia en el comercio de IA y las minutas hawkish del BCE.",
+     "dato": {
+      "cifra": "−1.5%",
+      "contexto": "cierre de noviembre al que apunta el STOXX 600"
+     },
+     "fuente": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Inflación subyacente de Tokio llega a 2.9%, su máximo en 16 meses",
+     "titularCorto": "Tokio: inflación subyacente en 2.9%",
+     "bajada": "Es el tercer mes seguido arriba del objetivo de 2% y crece la apuesta por un alza del Banco de Japón. Un yen más caro de fondear también desarma el carry trade que pesa sobre el peso.",
+     "dato": {
+      "cifra": "2.9%",
+      "contexto": "inflación subyacente de Tokio en noviembre"
+     },
+     "fuente": "NHK",
+     "url": "https://www3.nhk.or.jp/nhkworld/news/20261127de82461/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "OpenAI prueba Private Inference para proteger los datos de empresas",
+     "titularCorto": "OpenAI prueba Private Inference",
+     "bajada": "Es cómputo confidencial, en alfa y con pocos clientes, que protege prompts y respuestas mientras el modelo los procesa. La privacidad es la principal barrera para que bancos, salud y gobierno adopten IA.",
+     "fuente": "OpenAI",
+     "url": "https://openai.com/business/private-intelligence/"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "Fed decide tasas el 9 de diciembre",
+     "detalle": "Banxico anuncia la suya el 17 de diciembre."
+    },
+    {
+     "titular": "Wall Street, en sesión corta",
+     "detalle": "Reabre hoy tras Thanksgiving."
+    },
+    {
+     "titular": "IED récord de enero a septiembre",
+     "detalle": "En su mayoría es reinversión de utilidades."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-26",
    "fechaLabel": "26 NOV 2026",
