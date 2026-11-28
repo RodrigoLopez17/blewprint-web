@@ -1,6 +1,166 @@
 {
- "actualizado": "27 nov 2026, 05:38 (hora de Mérida)",
+ "actualizado": "28 nov 2026, 05:36 (hora de Mérida)",
  "ediciones": [
+  {
+   "fecha": "2026-11-28",
+   "fechaLabel": "28 NOV 2026",
+   "notas": [
+    {
+     "kicker": "Negocios · México",
+     "titular": "México ya exportó en 10 meses más que en todo 2025: US$713,203 millones",
+     "titularCorto": "Exportaciones: récord antes de fin de año",
+     "bajada": "De enero a octubre México exportó US$713,203 millones, más que el récord de todo 2025. El motor ya no son los autos (+1.8%), sino las manufacturas no automotrices (+45.4%).",
+     "dato": {
+      "cifra": "US$713B",
+      "contexto": "exportado de enero a octubre de 2026 (+30.3%)"
+     },
+     "fuente": "Inegi",
+     "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/comext_o/balcom_o2026_11.pdf"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "La Bolsa mexicana tiene su mejor semana desde abril y queda a ~2% de su récord",
+     "titularCorto": "BMV: su mejor semana desde abril",
+     "bajada": "El S&P/BMV IPC subió 4.41% en la semana y cerró en 71,657.88 puntos, con mineras como Peñoles y Grupo México al frente. En el año acumula +11.33%.",
+     "dato": {
+      "cifra": "+4.41%",
+      "contexto": "avance semanal del IPC, el mejor desde abril"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/mercados/bolsa-mexicana-cierra-ganancias-termina-mejor-semana-abril-20261127-846266.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Anthropic, creadora de Claude, ya cotiza en la Bolsa Mexicana con la clave ANT",
+     "titularCorto": "Anthropic llega a la BMV como ANT",
+     "bajada": "La BMV listó a Anthropic en el SIC, así que sus acciones se compran en pesos desde una casa de bolsa mexicana. Debutó en Nasdaq a US$83 y el viernes cerró en US$91.88.",
+     "dato": {
+      "cifra": "US$91.88",
+      "contexto": "cierre del viernes en Nasdaq (salió a US$83)"
+     },
+     "fuente": "El Economista",
+     "url": "https://www.eleconomista.com.mx/finanzaspersonales/anthropic-llega-bolsa-mexicana-valores-asi-puedes-invertir-desarrolladora-claude-20261127-846269.html"
+    },
+    {
+     "kicker": "Tecnología · México",
+     "titular": "Centros de datos: US$20,600 millones en camino, pero hay listos sin luz",
+     "titularCorto": "Centros de datos listos, pero sin energía",
+     "bajada": "MexDC prevé más de US$20,600 millones de inversión hasta 2031, pero hay centros terminados que no operan por falta de energía. La red eléctrica es el cuello de botella.",
+     "dato": {
+      "cifra": "US$20.6B",
+      "contexto": "inversión directa prevista en centros de datos hasta 2031"
+     },
+     "fuente": "DCD · El Economista",
+     "url": "https://www.datacenterdynamics.com/es/noticias/m%C3%A9xico-prev%C3%A9-20600-millones-de-d%C3%B3lares-para-ampliar-sus-centros-de-datos/"
+    },
+    {
+     "kicker": "Administración · México",
+     "titular": "Gasolineras y casetas serán las primeras con pago solo por medios digitales",
+     "titularCorto": "Gasolineras y casetas, sin efectivo",
+     "bajada": "La SHCP declaró sectores estratégicos la venta de combustibles y el cobro de peajes, donde el pago digital podrá ser el único. Las autoridades tienen hasta el 18 de diciembre para fijar la transición.",
+     "dato": {
+      "cifra": "14.72 min",
+      "contexto": "demora en caseta con cobro totalmente manual (estudio IMT)"
+     },
+     "fuente": "DOF · El Economista",
+     "url": "https://sidof.segob.gob.mx/notas/5805525"
+    },
+    {
+     "kicker": "Negocios · México",
+     "titular": "Sheinbaum descarta bajar aranceles a China y ve ~90 puntos resueltos con EE.UU.",
+     "titularCorto": "Sin rebaja de aranceles para China",
+     "bajada": "La presidenta dijo que es muy difícil mover ahora las fracciones que pidió revisar China, por el Plan México. Se dijo confiada en cerrar con EE.UU. antes de que termine 2026.",
+     "dato": {
+      "cifra": "~90",
+      "contexto": "puntos sobre barreras no arancelarias resueltos con EE.UU."
+     },
+     "fuente": "Infobae",
+     "url": "https://www.infobae.com/mexico/2026/11/27/sheinbaum-descarta-reducir-aranceles-a-china-por-beneficio-del-plan-mexico-espera-cerrar-acuerdo-comercial-con-eeuu-antes-de-fin-de-ano/"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Black Friday en línea en EE.UU. apunta a récord de hasta US$13,400 millones",
+     "titularCorto": "Black Friday en línea, rumbo a récord",
+     "bajada": "Adobe proyecta entre US$13,000 y US$13,400 millones de gasto en línea en EE.UU.; a las 6:30 p. m. ET llevaba US$9,700 millones, 12.8% más que el año pasado. Salesforce, con otro método, calcula US$18,700 millones.",
+     "dato": {
+      "cifra": "+12.8%",
+      "contexto": "gasto en línea a las 6:30 p. m. ET contra el año pasado"
+     },
+     "fuente": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Wall Street tiene su mejor semana desde abril de 2025 en un noviembre rojo",
+     "titularCorto": "Wall Street rebota en un mes rojo",
+     "bajada": "El S&P 500 ganó 5.6% en la semana y el Nasdaq 6.68%, con rebote en chips. Aun así, ambos van rumbo a su peor noviembre desde 2008 por temores sobre la IA y la Fed.",
+     "dato": {
+      "cifra": "+5.6%",
+      "contexto": "avance semanal del S&P 500, el mejor desde abril de 2025"
+     },
+     "fuente": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "OpenAI contrademanda a Apple por robo de secretos y presión a proveedores",
+     "titularCorto": "OpenAI contrademanda a Apple",
+     "bajada": "OpenAI acusa a Apple de robar secretos comerciales y de presionar a proveedores de sus futuros dispositivos. Apple lo niega; el juicio original está programado para el 19 de julio de 2027.",
+     "fuente": "9to5Mac",
+     "url": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/"
+    },
+    {
+     "kicker": "Negocios · Internacional",
+     "titular": "Reuters: EE.UU. empujó a Venezuela e Irak a considerar dejar la OPEP",
+     "titularCorto": "Presión de EE.UU. sobre la OPEP",
+     "bajada": "Según diez fuentes citadas por Reuters, EE.UU. animó a Venezuela e Irak a evaluar su salida de la OPEP; el Departamento de Estado lo matizó. El Brent cerró en US$95.44 y la OPEP+ se reúne el domingo.",
+     "dato": {
+      "cifra": "US$95.44",
+      "contexto": "cierre del Brent el viernes (+3% en la semana)"
+     },
+     "fuente": "Reuters · CNBC",
+     "url": "https://www.investing.com/news/commodities-news/exclusiveus-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say-5052970"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Polonia firma con Palantir un contrato de IA militar por ~US$300 millones",
+     "titularCorto": "Polonia contrata IA militar de Palantir",
+     "bajada": "El ministro de Defensa polaco firmó un acuerdo a cinco años por software de IA para apoyar decisiones de comandantes. Aseguró que llaves, servidores e información seguirán en manos polacas.",
+     "dato": {
+      "cifra": "US$300M",
+      "contexto": "valor aproximado del contrato a cinco años"
+     },
+     "fuente": "Reuters",
+     "url": "https://www.reuters.com/5f374b32b07b/technology/poland-signs-contract-with-palantir-worth-300-mln-over-5-years-2026-11-27/"
+    },
+    {
+     "kicker": "Tecnología · Internacional",
+     "titular": "Binance restablece sus retiros tras un hackeo de US$6,300 millones",
+     "titularCorto": "Binance reabre retiros tras su hackeo",
+     "bajada": "Binance terminó la recuperación de retiros tras el hackeo del 29 de octubre, el mayor registrado en cripto. TRM Labs y el FBI apuntan a hackers ligados a Corea del Norte.",
+     "dato": {
+      "cifra": "US$6.3B",
+      "contexto": "activos afectados por el hackeo del 29 de octubre"
+     },
+     "fuente": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
+    }
+   ],
+   "radar": [
+    {
+     "titular": "OPEP+ se reúne el domingo 29",
+     "detalle": "Se espera que mantenga sus metas del 1T de 2027."
+    },
+    {
+     "titular": "Cyber Monday: US$15,100 millones",
+     "detalle": "Es lo que proyecta Adobe en EE.UU. (+6.2%)."
+    },
+    {
+     "titular": "Subestación El Blanco, hasta 2027",
+     "detalle": "De ella depende la energía para centros de datos en Querétaro."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-27",
    "fechaLabel": "27 NOV 2026",
